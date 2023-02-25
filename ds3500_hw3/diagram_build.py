@@ -17,10 +17,13 @@ class Build:
 
     @staticmethod
     def _default_parser(filename):
+        file_obj = open(filename)
+        file_data = file_obj.read()
         results = {
-            'wordcount': Counter("to be or not to be".split()),
-            'numwords': rnd.randrange(10, 50)
+            'wordcount': Counter(file_data.split()),
+            'numwords': len(file_data)
         }
+        file_obj.close()
         return results
 
     def _save_results(self, label, results):
