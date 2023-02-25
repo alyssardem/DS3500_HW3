@@ -1,0 +1,1314 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="googlebot" content="noarchive">
+
+  <base src="https://www.themoscowtimes.com/" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#5882b5">
+  <link rel="shortcut icon" href="https://static.themoscowtimes.com/img/icons/favicon.ico">
+
+  <link rel="publisher" href="https://plus.google.com/114467228383524488842" />
+
+  <link rel="apple-touch-icon-precomposed" sizes="152x152"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon-precomposed" sizes="120x120"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72"
+    href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon-precomposed" href="https://static.themoscowtimes.com/img/icons/apple-touch-icon-57x57.png">
+
+  <meta property="og:site_name" content="The Moscow Times" />
+
+  <meta property="fb:admins" content="1190953093,691361317" />
+  <meta property="fb:app_id" content="1446863628952411" />
+
+  <meta name="twitter:site" content="@MoscowTimes">
+  <meta name="twitter:creator" content="@MoscowTimes">
+  <meta property="twitter:account_id" content="19527964">
+  <meta name="twitter:card" content="summary_large_image"> <!-- or summary -->
+
+  
+<title>Muscovites Shrug as Russia Marks One Year of Ukraine War - The Moscow Times</title>
+
+	<link rel="canonical" href="https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281">
+
+	<meta name="keywords" content="Ukraine war,Moscow">
+	<meta name="news_keywords" content="Ukraine war,Moscow">
+	<meta name="description" content="MOSCOW — As the first anniversary of Russia’s invasion of Ukraine approaches, life in the capital largely goes on as usual, with most Muscovites saying that the dominant mood is one of indifference to the ongoing fighting. “I don’t really feel that there is a war going on,” said a Muscovite in his 30s who spoke to a Moscow Times reporter in the city center earlier this week.  “One can easily adapt to any circumstances — the longer this conflict goes on, the more people accept the situation.” Apart from scattered billboards in support of the Russian Armed Forces and a handful of shuttered — or renamed — Western brand stores, the capital offers few obvious signs of the war raging just over 500 kilometers away in which tens of thousands of people have been killed and Ukrainian towns and cities all-but razed to the ground.   No significant opposition protests are expected to take place on the anniversary of the invasion Friday. “Generally speaking, it’s not our concern,” Svetlana, a pensioner in her 60s, told The Moscow Times when asked about the war.">
+	<meta name="thumbnail" content="https://static.themoscowtimes.com/image/320/d3/IMG_3945HEIC.jpg">
+	<meta name="author" content="The Moscow Times">
+
+	<meta property="og:url" content="https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281">
+	<meta property="og:title" content="Muscovites Shrug as Russia Marks One Year of Ukraine War - The Moscow Times">
+	<meta property="og:description" content="MOSCOW — As the first anniversary of Russia’s invasion of Ukraine approaches, life in the capital largely goes on as usual, with most Muscovites saying that the dominant mood is one of indifference to the ongoing fighting. “I don’t really feel that there is a war going on,” said a Muscovite in his 30s who spoke to a Moscow Times reporter in the city center earlier this week.  “One can easily adapt to any circumstances — the longer this conflict goes on, the more people accept the situation.” Apart from scattered billboards in support of the Russian Armed Forces and a handful of shuttered — or renamed — Western brand stores, the capital offers few obvious signs of the war raging just over 500 kilometers away in which tens of thousands of people have been killed and Ukrainian towns and cities all-but razed to the ground.   No significant opposition protests are expected to take place on the anniversary of the invasion Friday. “Generally speaking, it’s not our concern,” Svetlana, a pensioner in her 60s, told The Moscow Times when asked about the war.">
+	<meta property="og:image" content="https://static.themoscowtimes.com/image/og/36/80281__36bd57e9d05a553ae7903c94af2db43a.jpg">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta property="article:author" content="The Moscow Times">
+	<meta property="article:content_tier" content="free">
+	<meta property="article:modified_time" content="2023-02-25T18:25:14+03:00">
+	<meta property="article:published_time" content="2023-02-22T09:23:00+03:00">
+	<meta property="article:publisher" content="https://www.facebook.com/MoscowTimes">
+	<meta property="article:section" content="news">
+	<meta property="article:tag" content="Ukraine war,Moscow">
+	<meta property="twitter:title" content="Muscovites Shrug as Russia Marks One Year of Ukraine War">
+	<meta property="twitter:description" content="MOSCOW — As the first anniversary of Russia’s invasion of Ukraine approaches, life in the capital largely goes on as usual, with most Muscovites saying that the dominant mood is one of indifference to the ongoing fighting. “I don’t really feel that there is a war going on,” said a Muscovite in his 30s who spoke to a Moscow Times reporter in the city center earlier this week.  “One can easily adapt to any circumstances — the longer this conflict goes on, the more people accept the situation.” Apart from scattered billboards in support of the Russian Armed Forces and a handful of shuttered — or renamed — Western brand stores, the capital offers few obvious signs of the war raging just over 500 kilometers away in which tens of thousands of people have been killed and Ukrainian towns and cities all-but razed to the ground.   No significant opposition protests are expected to take place on the anniversary of the invasion Friday. “Generally speaking, it’s not our concern,” Svetlana, a pensioner in her 60s, told The Moscow Times when asked about the war.">
+	<meta property="twitter:image:src" content="https://static.themoscowtimes.com/image/og/36/80281__36bd57e9d05a553ae7903c94af2db43a.jpg">
+
+
+
+<script type="application/ld+json" data-json-ld-for-pagemetadata>
+	{"@context":"http:\/\/schema.org\/","@type":"NewsArticle","dateCreated":"2023-02-20T17:51:16+03:00","datePublished":"2023-02-22T09:23:00+03:00","dateModified":"2023-02-25T18:25:14+03:00","name":"Muscovites Shrug as Russia Marks One Year of Ukraine War","headline":"Muscovites Shrug as Russia Marks One Year of Ukraine War","description":"MOSCOW \u2014 As the first anniversary of Russia\u2019s invasion of Ukraine approaches, life in the capital largely goes on as usual, with most Muscovites saying that the dominant mood is one of indifference to the ongoing fighting. \u201cI don\u2019t really feel that there is a war going on,\u201d said a Muscovite in his 30s who spoke to a Moscow Times reporter in the city center earlier this week.\u00a0 \u201cOne can easily adapt to any circumstances \u2014 the longer this conflict goes on, the more people accept the situation.\u201d Apart from scattered billboards in support of the Russian Armed Forces and a handful of shuttered \u2014 or renamed \u2014 Western brand stores, the capital offers few obvious signs of the war raging just over 500 kilometers away in which tens of thousands of people have been killed and Ukrainian towns and cities all-but razed to the ground.\u00a0\u00a0 No significant opposition protests are expected to take place on the anniversary of the invasion Friday. \u201cGenerally speaking, it\u2019s not our concern,\u201d Svetlana, a pensioner in her 60s, told The Moscow Times when asked about the war.","keywords":"Ukraine war,Moscow","articleSection":"news","isAccessibleForFree":true,"mainEntityOfPage":"https:\/\/www.themoscowtimes.com\/2023\/02\/22\/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281","url":"https:\/\/www.themoscowtimes.com\/2023\/02\/22\/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281","thumbnailUrl":"https:\/\/static.themoscowtimes.com\/image\/320\/d3\/IMG_3945HEIC.jpg","image":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/image\/og\/36\/80281__36bd57e9d05a553ae7903c94af2db43a.jpg","width":1200,"height":630},"publisher":{"@type":"Organization","name":"The Moscow Times","logo":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/img\/logo.png","width":50,"height":50}},"inLanguage":{"@type":"Language","name":"English","alternateName":"English"},"author":{"@type":"Organization","name":"The Moscow Times"}}</script> <script type="application/ld+json" data-json-ld-for-pagemetadata>
+	{"@context":"http:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"The Moscow Times","item":"https:\/\/www.themoscowtimes.com\/"},{"@type":"ListItem","position":2,"name":"In depth","item":"https:\/\/www.themoscowtimes.com\/in-depth"},{"@type":"ListItem","position":3,"name":"Muscovites Shrug as Russia Marks One Year of Ukraine War","item":"https:\/\/www.themoscowtimes.com\/2023\/02\/22\/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281"}]}</script> 
+  <!-- load stylesheets -->
+  <link type="text/css" href="https://static.themoscowtimes.com/css/main.css?v=47" rel="stylesheet"
+    media="screen" />
+  <!-- Other CSS assets -->
+  
+  <link rel="dns-prefetch" href="//www.google-analytics.com" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsMediaOrganization",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "RU",
+      "addressLocality": "Moscow",
+      "postalCode": "",
+      "streetAddress": ""
+    },
+    "name": "The Moscow Times",
+    "email": "general@themoscowtimes.com",
+    "telephone": "",
+    "url": "https://themoscowtimes.com",
+    "logo": "https://static.themoscowtimes.com/img/logo_1280.png"
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.themoscowtimes.com/",
+    }
+  </script>
+  <!-- Google Tag Manager -->
+<script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-TR8JKK');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Yandex Zen -->
+<meta name="yandex-verification" content="45c6975db53b11d6" />
+
+<!--<link rel="stylesheet" href="https://a.pub.network/core/pubfig/cls.css">-->
+
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.config.enabled_slots = [];
+  freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+</script>
+
+<script src="https://a.pub.network/themoscowtimes-com/pubfig.min.js" data-cfasync="false" async></script>
+
+<!-- Freestar units -->
+<script>
+  freestar.queue.push(function() {
+    freestar.newAdSlots([{
+      placementName: 'themoscowtimes.com_header',
+      slotId: 'themoscowtimes.com_header',
+      targeting: {}
+    }, {
+      placementName: 'themoscowtimes.com_sidebar_1',
+      slotId: 'themoscowtimes.com_sidebar_1',
+      targeting: {}
+    }, {
+      placementName: 'themoscowtimes.com_billboard_bott',
+      slotId: 'themoscowtimes.com_billboard_bott',
+      targeting: {}
+    }]);
+  });
+</script>
+
+</head>
+
+
+<body class="article-item" y-use="Main">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe
+		src="https://www.googletagmanager.com/ns.html?id=GTM-TR8JKK"
+		height="0"
+		width="0"
+		style="display: none; visibility: hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Primis - The Moscow Times -->
+<script src="https://live.primis.tech/live/liveView.php?s=111743"></script>
+
+
+  
+<div y-use="ProgressBar" class="progress-bar"></div>
+<div class="container--full" y-name="banner">
+	<div class="preheader_advert py-2">
+						<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_header --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __970x250\&quot; id=\&quot;themoscowtimes.com_header\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+		</div>
+</div>
+<div class="container">
+  <div class="site-header py-3 hidden-xs">
+	<a href="https://www.themoscowtimes.com/" class="site-header__logo" title="The Moscow Times - Independent News from Russia" >
+		<img src="https://static.themoscowtimes.com/img/logo_tmt_30_yo.svg" alt="The Moscow Times"  />
+	</a>
+
+		<div class="site-header__contribute contribute-teaser hidden-xs">
+		<div class="contribute-teaser__cta mb-1">Support The Moscow Times!</div>
+		<a class="contribute-teaser__button"
+		   href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-header"
+		   class="contribute-teaser__cta">Contribute today</a>
+	</div>
+
+
+	<div class="site-header__account">
+		<div class="identity" aria-label="[[account]]">
+	<a y-name="signin" href="https://www.themoscowtimes.com/account" class="identity__signin">
+		<i class="fa fa-user-circle-o"></i>
+	</a>
+
+
+	<div y-name="account" class="identity__account" style="display:none">
+		<div class="identity__letter" href="https://www.themoscowtimes.com/account" y-name="letter"></div>
+		<div y-name="menu" class="identity__menu" style="display:none">
+			<a class="identity__menu__item identity__dashboard" href="https://www.themoscowtimes.com/account">My account</a>
+			<a class="identity__menu__item identity__signout" href="https://www.themoscowtimes.com/account/signout">Signout</a>
+		</div>
+	</div>
+</div>	</div>
+
+
+</div></div>
+
+<div class="container">
+	<div class="navigation" y-use="Navigation">
+
+	
+<div class="nav-expanded" style="display: none;" y-name="expanded">
+	<div class="nav-overlay"></div>
+	<div class="nav-container" y-name="container">
+		<div class="container">
+			<div class="nav-container__inner">
+				<div class="nav-expanded__header">
+					<div class="nav-expanded__close" y-name="close">&times;</div>
+				</div>
+				<nav class="">
+					<ul class="depth-0" >
+
+<li class="has-child" >
+<a href="#" >Sections</a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="/" >Home</a>
+</li>
+
+<li class="" >
+<a href="https://www.themoscowtimes.com/ukraine-war" >Ukraine War</a>
+</li>
+
+<li class="" >
+<a href="/news" >News</a>
+</li>
+
+<li class="" >
+<a href="/opinion" >Opinion</a>
+</li>
+
+<li class="" >
+<a href="/business" >Business</a>
+</li>
+
+<li class="" >
+<a href="/arts-and-life" >Arts and Life</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="has-child" >
+<a href="#" ></a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="" >
+<a href="/galleries" >Galleries</a>
+</li>
+
+<li class="" >
+<a href="/newsletters" >Newsletters</a>
+</li>
+
+<li class="" >
+<a href="/lectures" >TMT Lecture Series</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="has-child" >
+<a href="#" >Multimedia projects</a>
+<ul class="depth-1" >
+
+<li class="" >
+<a href="https://mothersanddaughters.themoscowtimes.com/" >Mothers &amp; Daughters</a>
+</li>
+
+<li class="" >
+<a href="https://generationp.themoscowtimes.com/" >Generation P</a>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	<nav class="nav-top">
+		<div class="menu-trigger" y-name="open"><i class="fa fa-reorder"></i></div>
+		<div class="nav-top__logo--xs hidden-sm-up">
+			<a href="https://www.themoscowtimes.com/" class="site-header__logo " title="The Moscow Times - Independent News from Russia">
+				<img src="https://static.themoscowtimes.com/img/logo_tmt_30_yo.svg" alt="The Moscow Times" />
+			</a>
+		</div>
+		<ul class="nav-top__list" >
+
+<li class="" >
+<a href="/news" >News</a>
+</li>
+
+<li class="" >
+<a href="https://www.themoscowtimes.com/ukraine-war" >Ukraine War</a>
+</li>
+
+<li class="" >
+<a href="/business" >Business</a>
+</li>
+
+<li class="" >
+<a href="/opinion" >Opinion</a>
+</li>
+
+<li class="" >
+<a href="/arts-and-life" >Arts and Life</a>
+</li>
+
+<li class="" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="" >
+<a href="/newsletters" >Newsletters</a>
+</li>
+
+</ul>
+
+		<div class="nav-top__wrapper">
+			<div class="nav-top__extra">
+				<a href="https://moscowtimes.ru" class="nav-top__lang-toggle">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 6" width="26" height="18">
+						<rect fill="#fff" width="9" height="3" />
+						<rect fill="#d52b1e" y="3" width="9" height="3" />
+						<rect fill="#0039a6" y="2" width="9" height="2" />
+					</svg>
+					<span>RU</span>
+				</a>
+			</div>
+			<div class="nav-top__search" y-use="Search" data-url="https://www.themoscowtimes.com/search">
+				<input type="text" y-name="query" placeholder="What are you searching for?" style="display:none" />
+				<span y-name="search" class="nav-top__search-trigger"><i class="fa fa-search"></i></span>
+			</div>
+			<div class="nav-top__account hidden-sm-up">
+				 <div class="identity" aria-label="[[account]]">
+	<a y-name="signin" href="https://www.themoscowtimes.com/account" class="identity__signin">
+		<i class="fa fa-user-circle-o"></i>
+	</a>
+
+
+	<div y-name="account" class="identity__account" style="display:none">
+		<div class="identity__letter" href="https://www.themoscowtimes.com/account" y-name="letter"></div>
+		<div y-name="menu" class="identity__menu" style="display:none">
+			<a class="identity__menu__item identity__dashboard" href="https://www.themoscowtimes.com/account">My account</a>
+			<a class="identity__menu__item identity__signout" href="https://www.themoscowtimes.com/account/signout">Signout</a>
+		</div>
+	</div>
+</div> 			</div>
+		</div>
+	</nav>
+</div></div>
+
+<div class="container">
+	 	<div class="contribute-teaser-mobile hidden-sm-up">
+		<div class="contribute-teaser-mobile__cta">
+			<span>Support The Moscow Times!</span>
+		</div>
+		<div class="contribute-teaser-mobile__container">
+			<a class="contribute-teaser-mobile__container__button"
+			   href="https://www.themoscowtimes.com/contribute?utm_source=contribute&utm_medium=internal-header-mobile"
+			   class="contribute-teaser__cta">Contribute today</a>
+		</div>
+
+	</div>
+ </div>
+
+
+
+<article y-use="article.IsIntersecting">
+
+	<!--[[[article:80281]]]-->
+	<div class="gtm-section gtm-type" data-section="news"
+		data-type="default">
+		<!-- Google Tag Manager places Streamads based on these classes -->
+	</div>
+
+		<div class="container article-container" id="article-id-80281"
+		data-page-id="80281" data-next-id="80301"
+		data-article-url="https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281"
+		data-article-title="Muscovites Shrug as Russia Marks One Year of Ukraine War">
+		
+
+		<div class="row-flex gutter-2">
+			<div class="col">
+				<article class="article article--news">
+					<header class="article__header ">
+																		<h1><a href="https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281">Muscovites Shrug as Russia Marks One Year of Ukraine War</a>
+						</h1>
+						<h2></h2>
+					</header>
+
+					<div class="article__byline byline  ">
+						<div class="row-flex">
+							<div class="col">
+								<div class="byline__details">
+
+																											
+									<div class="byline__details__column">
+										<div class="byline__author">
+																					</div>
+
+
+																				Updated:
+										<time class="byline__datetime timeago"
+											datetime="2023-02-23T21:48:32+03:00" y-use="Timeago">
+											Feb. 23, 2023										</time>
+																			</div>
+								</div>
+							</div>
+
+							<div class="col-auto">
+								<div class="byline__social">
+									<div class="social">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281" class="social__icon social__icon--facebook" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+	<a href="https://twitter.com/intent/tweet/?url=https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281&text=Muscovites Shrug as Russia Marks One Year of Ukraine War" class="social__icon social__icon--twitter" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+	<a href="https://telegram.me/share/url?url=https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281" class="social__icon social__icon--telegram" target="_blank" title="Share on Telegram"><i class="fa fa-paper-plane"></i></a>
+	<a href="https://wa.me/?text=https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281" class="social__icon social__icon--whatsapp"><i class="fa fa-whatsapp" target="_blank" title="Share on WhatsApp"></i></a>
+	<a href="mailto:?subject=Shared: Muscovites Shrug as Russia Marks One Year of Ukraine War&body=An article from The Moscow Times: https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281" class="social__icon social__icon--email"><i class="fa fa-envelope" target="_blank" title="Share with email"></i></a>
+	<a href="https://flipboard.com" data-flip-widget="shareflip" class="social__icon social__icon--flipboard" title="Share on Flipboard"><img src="https://static.themoscowtimes.com/img/flipboard_mrrw.png" /></a>
+</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					
+										<figure class="article__featured-image featured-image">
+						<img src="https://static.themoscowtimes.com/image/article_1360/d3/IMG_3945HEIC.jpg" />
+												<figcaption class="">
+							<span class="article__featured-image__caption featured-image__caption">
+															</span>
+							<span class="article__featured-image__credits featured-image__credits">
+								MT							</span>
+						</figcaption>
+											</figure>
+					
+
+					<div class="article__content-container">
+						<div class="article__content" y-name="article-content">
+																					<div y-use="article.ElementIntersection" data-id="article-block-type"
+								class="article__block article__block--html article__block--column ">
+								<p><span>MOSCOW &mdash; As the first anniversary of Russia&rsquo;s invasion of Ukraine approaches, life in the capital largely goes on as usual, with most Muscovites saying that the dominant mood is one of indifference to the ongoing fighting.</span></p>
+<p><span>&ldquo;I don&rsquo;t really feel that there is a war going on,&rdquo; said a Muscovite in his 30s who spoke to a Moscow Times reporter in the city center earlier this week.&nbsp;</span></p>
+<p><span>&ldquo;One can easily adapt to any circumstances &mdash; the longer this conflict goes on, the more people accept the situation.&rdquo;</span></p>
+<p><span>Apart from scattered billboards in support of the Russian Armed Forces and a handful of shuttered &mdash; or renamed &mdash; Western brand stores, the capital offers few obvious signs of the war raging just over 500 kilometers away in which tens of thousands of people have been killed and Ukrainian towns and cities all-but razed to the ground.&nbsp;&nbsp;</span></p>
+<p><span>No significant opposition protests are expected to take place on the anniversary of the invasion Friday.</span></p>
+<p><span>&ldquo;Generally speaking, it&rsquo;s not our concern,&rdquo; Svetlana, a pensioner in her 60s, told The Moscow Times when asked about the war. She added she was &ldquo;not interested in politics.&rdquo;</span></p>
+<p><span>Like others interviewed for this article, Svetlana requested anonymity to speak freely.</span></p>
+<p><span>While opinion <a href="https://www.levada.ru/2023/02/02/konflikt-s-ukrainoj-otsenki-yanvarya-2023-goda/">polls</a></span><span> conducted by both independent and state-run agencies suggest about 75% of Russians support the war, experts caution against the distorting effect of the country&rsquo;s political crackdown and draconian wartime censorship laws that have seen dozens handed lengthy jail terms for opposing the invasion.&nbsp;</span></p>
+<p><span>One of the few acknowledgements of the war&rsquo;s upcoming anniversary were to be found in central Moscow&rsquo;s Gorky Park, which has traditionally been associated with the capital&rsquo;s trendy young people.&nbsp;</span></p>															</div>
+														<div y-use="article.ElementIntersection" data-id="article-block-type"
+								class="article__block article__block--image article__block--column ">
+									<figure class="article__image">
+		
+		
+			
+				<img src="https://static.themoscowtimes.com/image/1360/71/08D0A7FD-A978-4C07-BB15-5E6811BBCAC6-21768-0000039B3C256489.jpg" alt="
+										 					MT				" />
+					
+
+					<figcaption>
+													<span class="article__image__credits">MT</span>
+							</figcaption>
+			</figure>
+																   								   															</div>
+														<div y-use="article.ElementIntersection" data-id="article-block-type"
+								class="article__block article__block--html article__block--column ">
+								 <p><span>Alongside celebrations of the traditional Maslenitsa folk festival, visitors to Gorky Park could also stop by pro-war stands to record a video message for Russian soldiers on the frontlines or make donations to the Armed Forces.&nbsp;&nbsp;</span></p>
+<p><span>While The Moscow Times didn't see any visitors sending such gifts on Sunday afternoon, staff at the stand said that &ldquo;many people&rdquo; had already recorded video messages.&nbsp;</span></p>
+<p><span>Under a nearby tent, just a few dozen people had gathered to watch a pro-war </span><a href="https://moscow.er.ru/activity/news/v-moskve-dan-start-pervomu-vserossijskomu-festivalyu-dobrovolcev-blago-svoimi-rukami"><span>concert</span></a><span>, where they listened to military songs and wrote postcards to Russian soldiers.</span></p>
+<p><span>Despite such events &mdash; which are all organized by City Hall &mdash; visible displays of support for the invasion in this city of almost 12 million people remain rare.&nbsp;</span></p>
+<p><span>Indeed, empty stores and a burgeoning number of pawn shops on the streets of Moscow are a far more obvious sign of the fallout from the war, which included the exit of major Western companies and Western sanctions.&nbsp;</span></p>
+<p><span>A number of Muscovites told The Moscow Times that they were worried about the economy and had noticed significant price rises on everyday goods which made life more difficult.&nbsp;</span></p>
+<p><span>In contrast, others said they were still able to buy sanctioned Western goods &mdash; which are imported via third countries &mdash; and had retained their pre-war living standards.</span></p>
+<p><span>Perhaps the most concerning consequence of the war for Muscovites has been the </span><a href="https://www.themoscowtimes.com/2023/01/24/fear-and-frustration-in-moscow-as-air-defense-systems-deployed-a80027"><span>installation</span></a><span> of air defense systems, which appeared in the Russian capital last month.</span></p>
+<p><span>Even still, most Russians view the war as &ldquo;something that does not directly affect them,&rdquo; said Denis Volkov, the head of the independent Levada Center pollster.&nbsp;</span></p>
+<p><span>&ldquo;It&rsquo;s a coping mechanism to adapt to stress, especially when people think that they cannot change anything,&rdquo; Volkov, who unlike many other independent experts has remained in Moscow since the invasion, said in a phone interview.</span></p> 															</div>
+														<div y-use="article.ElementIntersection" data-id="article-block-type"
+								class="article__block article__block--images article__block--column ">
+								<div class="article__images">
+
+	<div class="slider slider--fixed-size" y-use="Slider" data-fixed-size="true">
+					<div class="slider__slide" y-name="slide">
+
+				<a href="https://static.themoscowtimes.com/image/1360/6b/A3C6E1A8-2383-4725-8076-881BBAD50315-21768-0000039B7D3C480F.jpg" y-name="lightbox" title="&nbsp;&nbsp;MT">
+					<div class="slider__slide-inner ">
+						<img src="https://static.themoscowtimes.com/image/1920/6b/A3C6E1A8-2383-4725-8076-881BBAD50315-21768-0000039B7D3C480F.jpg"  />
+					</div>
+											<figcaption class="">
+							<span class="article__images__caption"></span>
+															<span class="article__images__credits">MT</span>
+													</figcaption>
+									</a>
+			</div>
+					<div class="slider__slide" y-name="slide">
+
+				<a href="https://static.themoscowtimes.com/image/1360/dc/CD21CB8B-3CC7-463E-B621-4CA918681B03-21768-0000039B8400E426.jpg" y-name="lightbox" title="&nbsp;&nbsp;MT">
+					<div class="slider__slide-inner ">
+						<img src="https://static.themoscowtimes.com/image/1920/dc/CD21CB8B-3CC7-463E-B621-4CA918681B03-21768-0000039B8400E426.jpg"  />
+					</div>
+											<figcaption class="">
+							<span class="article__images__caption"></span>
+															<span class="article__images__credits">MT</span>
+													</figcaption>
+									</a>
+			</div>
+					<div class="slider__slide" y-name="slide">
+
+				<a href="https://static.themoscowtimes.com/image/1360/5c/AEBEB4DC-E060-4F77-B518-3916073991E9-21768-0000039BDF41417D.jpg" y-name="lightbox" title="&nbsp;&nbsp;MT">
+					<div class="slider__slide-inner ">
+						<img src="https://static.themoscowtimes.com/image/1920/5c/AEBEB4DC-E060-4F77-B518-3916073991E9-21768-0000039BDF41417D.jpg"  />
+					</div>
+											<figcaption class="">
+							<span class="article__images__caption"></span>
+															<span class="article__images__credits">MT</span>
+													</figcaption>
+									</a>
+			</div>
+					<div class="slider__slide" y-name="slide">
+
+				<a href="https://static.themoscowtimes.com/image/1360/29/A3E55A84-5DF3-4A70-BC12-8585E9F8F774-21768-0000039B6817F914.jpg" y-name="lightbox" title="&nbsp;&nbsp;MT">
+					<div class="slider__slide-inner ">
+						<img src="https://static.themoscowtimes.com/image/1920/29/A3E55A84-5DF3-4A70-BC12-8585E9F8F774-21768-0000039B6817F914.jpg"  />
+					</div>
+											<figcaption class="">
+							<span class="article__images__caption"></span>
+															<span class="article__images__credits">MT</span>
+													</figcaption>
+									</a>
+			</div>
+					<div class="slider__slide" y-name="slide">
+
+				<a href="https://static.themoscowtimes.com/image/1360/f3/IMG_3963HEIC.jpg" y-name="lightbox" title="&nbsp;&nbsp;MT">
+					<div class="slider__slide-inner ">
+						<img src="https://static.themoscowtimes.com/image/1920/f3/IMG_3963HEIC.jpg"  />
+					</div>
+											<figcaption class="">
+							<span class="article__images__caption"></span>
+															<span class="article__images__credits">MT</span>
+													</figcaption>
+									</a>
+			</div>
+					<div class="slider__slide" y-name="slide">
+
+				<a href="https://static.themoscowtimes.com/image/1360/10/IMG_3961HEIC.jpg" y-name="lightbox" title="&nbsp;&nbsp;MT">
+					<div class="slider__slide-inner ">
+						<img src="https://static.themoscowtimes.com/image/1920/10/IMG_3961HEIC.jpg"  />
+					</div>
+											<figcaption class="">
+							<span class="article__images__caption"></span>
+															<span class="article__images__credits">MT</span>
+													</figcaption>
+									</a>
+			</div>
+					<div class="slider__slide" y-name="slide">
+
+				<a href="https://static.themoscowtimes.com/image/1360/57/IMG_3971HEIC.jpg" y-name="lightbox" title="&nbsp;&nbsp;MT">
+					<div class="slider__slide-inner ">
+						<img src="https://static.themoscowtimes.com/image/1920/57/IMG_3971HEIC.jpg"  />
+					</div>
+											<figcaption class="">
+							<span class="article__images__caption"></span>
+															<span class="article__images__credits">MT</span>
+													</figcaption>
+									</a>
+			</div>
+				<div class="slider__nav" y-name="navigation">
+			<a class="slider__previous" y-name="previous"><i class="fa fa-chevron-left"></i></a>
+			<a class="slider__next" y-name="next"><i class="fa fa-chevron-right"></i></a>
+		</div>
+	</div>
+
+</div>															</div>
+														<div y-use="article.ElementIntersection" data-id="article-block-type"
+								class="article__block article__block--html article__block--column ">
+								 <p><span>In general, according to Volkov, the authorities have been successful in casting the war as a broader conflict with Western countries seeking to weaken Russia.&nbsp;</span></p>
+<p><span>&ldquo;Of course, I feel sorry for them,&rdquo; retiree Svetlana, who supplements her pension with cleaning jobs, said when she was asked about those living in Ukraine.&nbsp;</span></p>
+<p><span>&ldquo;But I don&rsquo;t really like Ukrainians.&rdquo;</span></p>
+<p><span>While the war appears not to have made a significant impact on day-to-day life, some major events during the conflict have sparked turmoil.&nbsp;</span></p>
+<p><span>Particularly disruptive was the draft of hundreds of thousands of men into the Armed Forces during Russia's &ldquo;partial&rdquo; mobilization in September and October.&nbsp;</span></p>
+<p><span>While poorer Russian regions &mdash; as well as the country&rsquo;s ethnic republics &mdash; bore the brunt of mobilization, thousands were also called up from large cities, including Moscow.&nbsp;&nbsp;</span></p>
+<p><span>&ldquo;Of course, if they took your son away, you&rsquo;d go crazy,&rdquo; another pensioner strolling in downtown Moscow told The Moscow Times.&nbsp;</span></p>
+<p><span>According to Levada Center&rsquo;s Volkov, the mobilization was one of the events that brought Russians face to face with the reality of the war &mdash; albeit briefly.&nbsp;</span></p>
+<p><span>&ldquo;Before mobilization in September, people used to say: &rsquo;Volunteers and professionals are fighting there, thank God, it is not us, let them fight, the authorities know better, we are ordinary people. It&rsquo;s bad that people are dying, but it probably couldn&rsquo;t have been avoided&rsquo;,&rdquo; Volkov told The Moscow Times.</span></p>
+<p></p> 															</div>
+														<div y-use="article.ElementIntersection" data-id="article-block-type"
+								class="article__block article__block--image article__block--column ">
+								 	<figure class="article__image">
+		
+		
+			
+				<img src="https://static.themoscowtimes.com/image/1360/cb/069c0000-0aff-0242-a54e-08dafaf4c1a5_cx0_cy18_cw0_w1023_r1_st_s.jpg" alt="
+					An air defense system on the roof of the Russian Defense Ministry building in Moscow.					 					Social Media				" />
+					
+
+					<figcaption>
+									<span class="article__image__caption">An air defense system on the roof of the Russian Defense Ministry building in Moscow.</span>
+													<span class="article__image__credits">Social Media</span>
+							</figcaption>
+			</figure>
+ 															</div>
+														<div y-use="article.ElementIntersection" data-id="article-block-type"
+								class="article__block article__block--html article__block--column ">
+								 <p><span>Mobilization also exacerbated an exodus &mdash; estimated at hundreds of thousands &mdash; from the country, as people fled to avoid political repression or being sent to the front.&nbsp;&nbsp;&nbsp;</span></p>
+<p><span>The consequences of people fleeing abroad is particularly noticeable in large cities like Moscow, where those with the disposable income and job flexibility to emigrate at short notice were concentrated.&nbsp;</span></p>
+<p><span>&ldquo;For me, the biggest and most significant change is that all of my close friends have left Russia &mdash; it feels like the whole middle class has gone,&rdquo; said one Muscovite.</span></p>
+<p><span>However, by the end of last year, the impact of mobilization appeared to have faded and many people went back to ignoring the ongoing war.</span></p>
+<p><span>Even major military reversals, like the Russian army&rsquo;s retreat from Ukraine&rsquo;s Kharkiv region and the southern city of Kherson, barely seemed to register.&nbsp;</span></p>
+<p><span>Beneath the surface, some Muscovites &mdash; albeit a minority &mdash; struggle to cope with daily reports of the death and destruction in Ukraine, including apparent atrocities committed by Russian soldiers in places like Bucha and Mariupol.&nbsp;&nbsp;</span></p>
+<p><span>&ldquo;I put my life on pause when the war started,&rdquo; one woman sitting in a cafe in central Moscow said in an interview this week.&nbsp;</span></p>
+<p><span>&ldquo;I&rsquo;m still trying to learn how to live in the current situation.&rdquo;</span></p>
+<p><span>&nbsp;</span></p> 															</div>
+																				</div>
+
+						
+						
+						<div class="article__bottom">
+
+						</div>
+
+						
+												<div class="article__tags">
+							Read more about:
+																					<a
+	href="https://www.themoscowtimes.com/tag/ukraine-war"
+	class="tag article__tags__tag"
+	title="Ukraine war"
+>
+	Ukraine war</a>
+														,  <a
+	href="https://www.themoscowtimes.com/tag/moscow"
+	class="tag article__tags__tag"
+	title="Moscow"
+>
+	Moscow</a>
+ 													</div>
+						
+						<div class="hidden-md-up">
+													</div>
+
+						 <div class="social">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281" class="social__icon social__icon--facebook" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>
+	<a href="https://twitter.com/intent/tweet/?url=https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281&text=Muscovites Shrug as Russia Marks One Year of Ukraine War" class="social__icon social__icon--twitter" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+	<a href="https://telegram.me/share/url?url=https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281" class="social__icon social__icon--telegram" target="_blank" title="Share on Telegram"><i class="fa fa-paper-plane"></i></a>
+	<a href="https://wa.me/?text=https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281" class="social__icon social__icon--whatsapp"><i class="fa fa-whatsapp" target="_blank" title="Share on WhatsApp"></i></a>
+	<a href="mailto:?subject=Shared: Muscovites Shrug as Russia Marks One Year of Ukraine War&body=An article from The Moscow Times: https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281" class="social__icon social__icon--email"><i class="fa fa-envelope" target="_blank" title="Share with email"></i></a>
+	<a href="https://flipboard.com" data-flip-widget="shareflip" class="social__icon social__icon--flipboard" title="Share on Flipboard"><img src="https://static.themoscowtimes.com/img/flipboard_mrrw.png" /></a>
+</div>
+ 					</div>
+
+				</article>
+			</div>
+
+
+			<div class="col-auto hidden-sm-down">
+				<aside class="sidebar">
+
+					
+					<!-- Article sidebar -->
+					<section class="sidebar__section" y-name="banner">
+	<div class="banner" style="">
+		<div class="banner-inner">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_sidebar_1 --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__300x600\&quot; id=\&quot;themoscowtimes.com_sidebar_1\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+			</div>
+	</div>
+</section>
+					<div class="sidebar__sticky">
+						<div class="tabs" y-use="Tabs" data-active="tabs__tab--active">
+							<section class="sidebar__section">
+								<div class="sidebar__section__header">
+									<div class="tabs__tab" y-name="tab" data-content="mostread">
+										<h3 class="tab__header header--style-3">Most read</h3>
+									</div>
+
+									<div class="tabs__tab" y-name="tab" data-content="justin">
+										<h3 class="tab__header header--style-3">Just in</h3>
+									</div>
+								</div>
+
+								<div class="tabs__content" y-name="content justin">
+									<ul class="listed-articles">
+			<li class="listed-articles__item">
+			
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2023/02/25/russias-regional-arts-struggle-on-after-year-of-war-a80299" title="Russia’s Regional Arts Struggle On After Year of War">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-25T12:54:37+03:00" y-use="Timeago" >
+				Feb. 25, 2023			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Russia’s Regional Arts Struggle On After Year of War		</h5>
+	</a>
+</div>		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2023/02/25/eu-imposes-fresh-sanctions-on-121-russian-businesses-and-individuals-a80339" title="EU Imposes Fresh Sanctions on 121 Russian Businesses and Individuals">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-25T12:39:00+03:00" y-use="Timeago" >
+				Feb. 25, 2023			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			EU Imposes Fresh Sanctions on 121 Russian Businesses and Individuals		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2023/02/25/a-blini-bash-for-the-last-day-of-maslenitsa-a80338" title="A Blini Bash for the Last Day of Maslenitsa">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-25T06:56:00+03:00" y-use="Timeago" >
+				Feb. 25, 2023			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			A Blini Bash for the Last Day of Maslenitsa		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2023/02/24/thousands-in-georgia-rally-in-ukraines-support-on-invasion-anniversary-a80336" title="Thousands in Georgia Rally in Ukraine’s Support on Invasion Anniversary">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-24T21:41:00+03:00" y-use="Timeago" >
+				Feb. 24, 2023			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Thousands in Georgia Rally in Ukraine’s Support on Invasion Anniversary		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2023/02/24/zelensky-eyes-victory-for-ukraine-on-anniversary-of-russia-conflict-a80330" title="Zelensky Eyes Victory for Ukraine on Anniversary of Russia Conflict">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-24T21:03:00+03:00" y-use="Timeago" >
+				Feb. 24, 2023			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Zelensky Eyes Victory for Ukraine on Anniversary of Russia Conflict		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2023/02/24/us-beefs-up-russia-sanctions-on-ukraine-invasion-anniversary-a80335" title="U.S. Beefs Up Russia Sanctions on Ukraine Invasion Anniversary">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-24T18:44:00+03:00" y-use="Timeago" >
+				Feb. 24, 2023			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			U.S. Beefs Up Russia Sanctions on Ukraine Invasion Anniversary		</h5>
+	</a>
+</div> 		</li>
+			<li class="listed-articles__item">
+			 
+<div class="article-excerpt-tiny">
+	<a href="https://www.themoscowtimes.com/2023/02/24/anti-war-russians-detained-at-muted-anniversary-protests-a80332" title="Anti-War Russians Detained at Muted Anniversary Protests">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-24T17:34:00+03:00" y-use="Timeago" >
+				Feb. 24, 2023			</time>
+				<h5 class="article-excerpt-tiny__headline ">
+			Anti-War Russians Detained at Muted Anniversary Protests		</h5>
+	</a>
+</div> 		</li>
+	</ul>								</div>
+
+								<div class="tabs__content" y-name="content mostread" style="display: none">
+									<ul class="ranked-articles">
+						<li class="ranked-articles__item">
+			
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2023/02/24/russia-says-ukraine-preparing-armed-provocation-in-breakaway-transnistria-a80316" title="Russia Says Ukraine Preparing ‘Armed Provocation’ in Breakaway Transnistria ">
+		<div class="article-excerpt-ranked__rank">
+			1		</div>
+		<div class="article-excerpt-ranked__item">
+							
+
+	<span class="label article-excerpt-ranked__label">
+		rising tensions	</span>
+									<h5 class="article-excerpt-ranked__headline">
+				Russia Says Ukraine Preparing ‘Armed Provocation’ in Breakaway Transnistria 			</h5>
+		</div>
+	</a>
+</div>		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2023/02/24/zelensky-eyes-victory-for-ukraine-on-anniversary-of-russia-conflict-a80330" title="Zelensky Eyes Victory for Ukraine on Anniversary of Russia Conflict">
+		<div class="article-excerpt-ranked__rank">
+			2		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+	<span class="label article-excerpt-ranked__label">
+		'we were not defeated'	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				Zelensky Eyes Victory for Ukraine on Anniversary of Russia Conflict			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2023/02/24/russias-wagner-claims-capture-of-ukraine-village-near-bakhmut-a80325" title="Russia&#039;s Wagner Claims Capture of Ukraine Village Near Bakhmut">
+		<div class="article-excerpt-ranked__rank">
+			3		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+	<span class="label article-excerpt-ranked__label">
+		creeping advance	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				Russia's Wagner Claims Capture of Ukraine Village Near Bakhmut			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2023/02/24/ex-president-medvedev-says-russia-must-win-in-ukraine-to-push-back-threats-a80329" title="Ex-President Medvedev Says Russia Must Win in Ukraine">
+		<div class="article-excerpt-ranked__rank">
+			4		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+	<span class="label article-excerpt-ranked__label">
+		'push back threats'	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				Ex-President Medvedev Says Russia Must Win in Ukraine			</h5>
+		</div>
+	</a>
+</div> 		</li>
+					<li class="ranked-articles__item">
+			 
+<div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
+	<a href="https://www.themoscowtimes.com/2023/02/24/the-photos-that-have-defined-russias-one-year-invasion-of-ukraine-a80278" title="The Photos That Have Defined Russia&#039;s One-Year Invasion of Ukraine">
+		<div class="article-excerpt-ranked__rank">
+			5		</div>
+		<div class="article-excerpt-ranked__item">
+							 
+
+	<span class="label article-excerpt-ranked__label">
+		military fatigue	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				The Photos That Have Defined Russia's One-Year Invasion of Ukraine			</h5>
+		</div>
+	</a>
+</div> 		</li>
+	</ul>								</div>
+							</section>
+						</div>
+					</div>
+					<!-- Article sidebar bottom -->
+					   
+				</aside>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Article billboard bottom -->
+	<div class="container container--full py-3 mb-4" style="background-color: #efefef;" y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="max-width: 984px; margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div id=\&quot;FreeStarVideoAdContainer\&quot; style=\&quot;max-width: 640px; margin: 0 auto;\&quot;&gt;\n &lt;div id=\&quot;freestar-video-parent\&quot;&gt;\n  &lt;div id=\&quot;freestar-video-child\&quot;&gt;&lt;\/div&gt;\n &lt;\/div&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;image&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_billboard_bott --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __970x250\&quot; id=\&quot;themoscowtimes.com_billboard_bott\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;sm&quot;,&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;]"></div>
+			</div>
+	</div>
+</div>	<!-- Article billboard bottom -->
+	 <div class="container container--full py-3 mb-4" style="background-color: #efefef;" y-name="banner">
+	<div class="align-center" style="line-height: 0">
+		<div style="max-width: 984px; margin: 0 auto;">
+							<div y-use="Banner" data-pool="[{&quot;type&quot;:&quot;tag&quot;,&quot;html&quot;:&quot;&lt;div id=\&quot;FreeStarVideoAdContainer\&quot; style=\&quot;max-width: 640px; margin: 0 auto;\&quot;&gt;\n &lt;div id=\&quot;freestar-video-parent\&quot;&gt;\n  &lt;div id=\&quot;freestar-video-child\&quot;&gt;&lt;\/div&gt;\n &lt;\/div&gt;\n&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false},{&quot;type&quot;:&quot;image&quot;,&quot;html&quot;:&quot;&lt;!-- Tag ID: themoscowtimes.com_billboard_bott --&gt;\n&lt;div align=\&quot;center\&quot; data-freestar-ad=\&quot;__336x280 __970x250\&quot; id=\&quot;themoscowtimes.com_billboard_bott\&quot;&gt;&lt;\/div&gt;&quot;,&quot;href&quot;:&quot;#&quot;,&quot;src&quot;:false}]" data-viewports="[&quot;xs&quot;]"></div>
+			</div>
+	</div>
+</div> 
+
+	<div class="container">
+		<section class="cluster">
+
+			<div class="cluster__header">
+				<h2 class="cluster__label header--style-3">
+										Read more									</h2>
+			</div>
+
+			<div class="row-flex">
+								<div class="col-3 col-6-sm">
+					
+
+<div
+	class="article-excerpt-default article-excerpt-default--ukraine_war" y-use="analytics.IsIntersecting"
+	data-url="https://www.themoscowtimes.com/2023/01/24/fear-and-frustration-in-moscow-as-air-defense-systems-deployed-a80027"
+	data-title="Fear and Frustration in Moscow as Air Defense Systems Deployed"
+>
+
+	<a href="https://www.themoscowtimes.com/2023/01/24/fear-and-frustration-in-moscow-as-air-defense-systems-deployed-a80027" class="article-excerpt-default__link" title="Fear and Frustration in Moscow as Air Defense Systems Deployed">
+					<div class=" article-excerpt-default__image-wrapper">
+				<figure>
+					
+
+	<img src="https://static.themoscowtimes.com/image/article_640/73/402716.jpg" />
+
+																			</figure>
+			</div>
+		
+		<div class="article-excerpt-default__content">
+							
+
+	<span class="label article-excerpt-default__label label--indepth article-excerpt-default__label--indepth">
+		In depth	</span>
+						
+			<h3 class="article-excerpt-default__headline">
+								Fear and Frustration in Moscow as Air Defense Systems Deployed			</h3>
+
+			
+							<div class="article-excerpt-default__teaser">The installation of air defense systems in the center of the Russian capital in recent weeks has been met with fear and anger by locals &mdash; as well...</div>
+								</div>
+	</a>
+</div>				</div>
+								<div class="col-3 col-6-sm">
+					 
+
+<div
+	class="article-excerpt-default article-excerpt-default--ukraine_war" y-use="analytics.IsIntersecting"
+	data-url="https://www.themoscowtimes.com/2023/01/23/muscovites-continue-to-risk-arrest-protesting-ukraine-nightmare-a80020"
+	data-title="Muscovites Continue to Risk Arrest Protesting Ukraine ‘Nightmare'"
+>
+
+	<a href="https://www.themoscowtimes.com/2023/01/23/muscovites-continue-to-risk-arrest-protesting-ukraine-nightmare-a80020" class="article-excerpt-default__link" title="Muscovites Continue to Risk Arrest Protesting Ukraine ‘Nightmare&#039;">
+					<div class=" article-excerpt-default__image-wrapper">
+				<figure>
+					 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/92/000_33794B4-2.jpg" />
+ 
+																			</figure>
+			</div>
+		
+		<div class="article-excerpt-default__content">
+							 
+
+	<span class="label article-excerpt-default__label">
+		individual courage	</span>
+ 						
+			<h3 class="article-excerpt-default__headline">
+								Muscovites Continue to Risk Arrest Protesting Ukraine ‘Nightmare'			</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Muscovites were continuing to brave the threat of arrest to lay flowers at an improvised memorial to the victims of a missile attack on the Ukrainian city...</div>
+								</div>
+	</a>
+</div> 				</div>
+								<div class="col-3 col-6-sm">
+					 
+
+<div
+	class="article-excerpt-default article-excerpt-default--ukraine_war" y-use="analytics.IsIntersecting"
+	data-url="https://www.themoscowtimes.com/2023/01/20/kremlin-declines-to-say-if-moscow-is-preparing-for-air-strikes-a79995"
+	data-title="Kremlin Declines to Say if Moscow is Preparing for Air Strikes"
+>
+
+	<a href="https://www.themoscowtimes.com/2023/01/20/kremlin-declines-to-say-if-moscow-is-preparing-for-air-strikes-a79995" class="article-excerpt-default__link" title="Kremlin Declines to Say if Moscow is Preparing for Air Strikes">
+					<div class=" article-excerpt-default__image-wrapper">
+				<figure>
+					 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/3c/63524354643.JPG" />
+ 
+																			</figure>
+			</div>
+		
+		<div class="article-excerpt-default__content">
+							 
+
+	<span class="label article-excerpt-default__label">
+		eye on the sky	</span>
+ 						
+			<h3 class="article-excerpt-default__headline">
+								Kremlin Declines to Say if Moscow is Preparing for Air Strikes			</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Updates with Peskov and Horowitz comments.
+The Kremlin refused to say whether Russia was preparing for strikes on the capital on Friday after images of...</div>
+								</div>
+	</a>
+</div> 				</div>
+								<div class="col-3 col-6-sm">
+					 
+
+<div
+	class="article-excerpt-default article-excerpt-default--ukraine_war" y-use="analytics.IsIntersecting"
+	data-url="https://www.themoscowtimes.com/2022/10/17/moscow-mayor-announces-end-of-mobilization-in-the-capital-a79107"
+	data-title="Moscow Mayor Announces End of Mobilization in the Capital"
+>
+
+	<a href="https://www.themoscowtimes.com/2022/10/17/moscow-mayor-announces-end-of-mobilization-in-the-capital-a79107" class="article-excerpt-default__link" title="Moscow Mayor Announces End of Mobilization in the Capital">
+					<div class=" article-excerpt-default__image-wrapper">
+				<figure>
+					 
+
+	<img src="https://static.themoscowtimes.com/image/article_640/8b/716322.jpg" />
+ 
+																			</figure>
+			</div>
+		
+		<div class="article-excerpt-default__content">
+							 
+
+	<span class="label article-excerpt-default__label">
+		Conscription Cancelled 	</span>
+ 						
+			<h3 class="article-excerpt-default__headline">
+								Moscow Mayor Announces End of Mobilization in the Capital			</h3>
+
+			
+							<div class="article-excerpt-default__teaser">Army draft offices will close in Moscow from Monday as the Kremlin's quotas for recruiting reservists to fight in Ukraine have been met in the capital...</div>
+								</div>
+	</a>
+</div> 				</div>
+							</div>
+		</section>
+	</div>
+
+		<!-- sticky_article_billboard_bottom -->
+	   
+
+
+</article>
+
+<div class="container next-article-loader" id="load-next-article" y-use="article.InfiniteScroll"
+	data-id="80301" data-url="https://www.themoscowtimes.com/all/{{id}}">
+	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+		width="40px" height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+		<path opacity="0.2" fill="#000"
+			d="M20.201,5.169c-8.254,0-14.946,6.692-14.946,14.946c0,8.255,6.692,14.946,14.946,14.946
+			  s14.946-6.691,14.946-14.946C35.146,11.861,28.455,5.169,20.201,5.169z M20.201,31.749c-6.425,0-11.634-5.208-11.634-11.634
+			  c0-6.425,5.209-11.634,11.634-11.634c6.425,0,11.633,5.209,11.633,11.634C31.834,26.541,26.626,31.749,20.201,31.749z" />
+		<path fill="#000" d="M26.013,10.047l1.654-2.866c-2.198-1.272-4.743-2.012-7.466-2.012h0v3.312h0
+			  C22.32,8.481,24.301,9.057,26.013,10.047z">
+			<animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 20 20" to="360 20 20"
+				dur="0.5s" repeatCount="indefinite" />
+		</path>
+	</svg>
+</div>
+
+<script>
+if (typeof freestar === 'object') {
+	freestar.config.disabledProducts = {
+		sideWall: true,
+	};
+}
+</script>
+
+
+<footer class="footer fancyfooter" y-name="footer">
+
+	<div class="container">
+		<div class="footer__inner">
+			<div class="footer__logo mb-3">
+				<a href="https://www.themoscowtimes.com/" class="footer__logo__wrapper"
+					title="The Moscow Times - Independent News from Russia">
+					<img src="https://static.themoscowtimes.com/img/logo_tmt_30_yo.svg" alt="The Moscow Times" />
+				</a>
+			</div>
+			<div class="footer__main">
+								<div class="footer__menu">
+					<ul class="row-flex depth-0" >
+
+<li class="col has-child" >
+<a href="#" >The Moscow Times</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="/page/moscow-times" >About us</a>
+</li>
+
+<li class="col" >
+<a href="/page/jobs-at-tmt" >Jobs</a>
+</li>
+
+<li class="col" >
+<a href="/page/advertising" >Advertise with us</a>
+</li>
+
+<li class="col" >
+<a href="/page/privacy-policy" >Privacy Policy</a>
+</li>
+
+<li class="col" >
+<li class="col">
+<a class="change-consent" onclick="window.__uspapi('displayUspUi');">Your Personal Information</a>
+</li>
+<li class="col">
+<a class="change-consent" onclick="window.__tcfapi('displayConsentUi', 2, function() {} );">Change Consent</a>
+</li>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >  </a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="/podcasts" >Podcasts</a>
+</li>
+
+<li class="col" >
+<a href="/videos" >Videos</a>
+</li>
+
+<li class="col" >
+<a href="/galleries" >Galleries</a>
+</li>
+
+<li class="col" >
+<a href="/newsletters" >Newsletters</a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >Follow us</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<a href="https://www.facebook.com/MoscowTimes/" target="_blank"><i class="fa fa-lg fa-facebook"></i></a>&nbsp;
+<a href="https://twitter.com/moscowtimes" target="_blank"><i class="fa fa-lg fa-twitter"></i></a>&nbsp;
+<a href="https://www.instagram.com/themoscowtimes/" target="_blank"><i class="fa fa-lg fa-instagram"></i></a>&nbsp;
+<a href="https://vk.com/themoscowtimes" target="_blank"><i class="fa fa-lg fa-vk"></i></a>&nbsp;
+<a href="/page/rss"><i class="fa fa-lg fa-rss"></i></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCRNPdAfK5Mp8ORtjUt3Q8UA" target="_blank"><i class="fa fa-lg fa-youtube"></i></a>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" >Media Partners</a>
+<ul class="depth-1" >
+
+<li class="col" >
+<style>
+.media-partners a {
+	display: block;
+	position: relative;
+	padding-left: 42px;	
+	padding-top: 7px;
+	clear: both;
+	line-height: 1em;
+}
+.media-partners img {
+	margin-left: -42px;
+	margin-top: -7px;
+	max-width: 30px;
+	max-height: 30px;
+	float: left;
+	clear: both;
+	margin-bottom: 8px;
+}
+</style>
+
+<ul class="depth-1">
+<li class="media-partners">
+	<a href="https://faridaily.substack.com/" target="_blank" rel="noopener noreferrer">
+		<img src="https://www.themoscowtimes.com/image/320/3c/faridaily.jpg" alt="Vpost" loading="lazy" />
+		Faridaily
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://codastory.com" target="_blank" rel="noopener">
+		<img src="https://static.themoscowtimes.com/image/320/3f/CWJdLmXk_400x400.png" alt="Coda Story" loading="lazy"/>
+		Coda Story
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://eurasianet.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.themoscowtimes.com/image/320/38/eurasianet.png" alt="Eurasianet loading="lazy""/>
+		Eurasianet
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://novayagazeta.eu" target="_blank" rel="noopener noreferrer">
+<img src="https://static.themoscowtimes.com/image/320/00/novayagazeta.jpg" alt="Novaya Gazeta Europe" loading="lazy" />
+Novaya Gazeta Europe
+	</a>
+</li>
+</ul>
+</li>
+
+</ul>
+
+</li>
+
+<li class="col has-child" >
+<a href="#" ></a>
+<ul class="depth-1" >
+
+<li class="col" >
+<style>
+.media-partners a {
+	display: block;
+	position: relative;
+	padding-left: 42px;	
+	padding-top: 7px;
+	clear: both;
+	line-height: 1em;
+}
+.media-partners img {
+	margin-left: -42px;
+	margin-top: -7px;
+	max-width: 30px;
+	max-height: 30px;
+	float: left;
+	clear: both;
+	margin-bottom: 8px;
+}
+.margin-top {
+margin-top: 25px;
+}
+@media (max-width: 767px) {
+.margin-top {
+margin-top: 0;
+}
+}
+</style>
+
+<ul class="depth-1 margin-top">
+<li class="media-partners">
+	<a href="https://thebell.io/" target="_blank" rel="noopener noreferrer">
+<img src="https://www.themoscowtimes.com/image/320/97/thebell.png" alt="The Bell " loading="lazy"/>
+		The Bell
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://www.themoscowtimes.com/author/eurasian-climate-brief" target="_blank" rel="noopener noreferrer">
+<img src="https://static.themoscowtimes.com/image/320/6c/626x0w.jpg" alt="The Eurasian Climate Brief " loading="lazy" />
+		The Eurasian Climate Brief
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://carnegieendowment.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://static.themoscowtimes.com/image/320/76/carnegie.jpg" alt="Carnegie Endowment for International Peace" loading="lazy" />
+		Carnegie Endowment
+	</a>
+</li>
+<li class="media-partners">
+	<a href="https://www.youtube.com/@tvrainnewsroom/" target="_blank" rel="noopener noreferrer">
+<img src="https://static.themoscowtimes.com/image/320/16/tvrain.jpg" alt="TV Rain Newsroom" loading="lazy" />
+TV Rain Newsroom
+	</a>
+</li>
+</ul>
+</li>
+
+</ul>
+
+</li>
+
+</ul>
+				</div>
+			</div>
+			<div class="footer__bottom">
+				&copy; The Moscow Times, all rights reserved.
+			</div>
+
+		</div>
+
+	</div>
+</footer>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+  <script src="https://static.themoscowtimes.com/vendor/jquery/Timeago.js"></script>
+  <script src="https://static.themoscowtimes.com/vendor/jquery/Lightbox.js"></script>
+  <script src="https://static.themoscowtimes.com/vendor/jquery/fitvids.js"></script>
+
+  <!-- Other JS assets -->
+    <script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js"></script>
+  
+  <div y-name="viewport" class="hidden-lg-down" data-viewport="xl"></div>
+  <div y-name="viewport" class="hidden-md-down hidden-xl" data-viewport="lg"></div>
+  <div y-name="viewport" class="hidden-lg-up hidden-sm-down" data-viewport="md"></div>
+  <div y-name="viewport" class="hidden-md-up hidden-xs" data-viewport="sm"></div>
+  <div y-name="viewport" class="hidden-sm-up" data-viewport="xs"></div>
+
+  <script type="text/javascript" src="https://static.themoscowtimes.com/vendor/yellow/Yellow.js"
+        data-main="https://static.themoscowtimes.com/js/main.js?v=47"
+    data-src="https://static.themoscowtimes.com/js/"     data-console="0"></script>
+
+  </body>
+
+</html>
