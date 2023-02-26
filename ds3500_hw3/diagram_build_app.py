@@ -1,7 +1,6 @@
-
 from diagram_build import Build
-#import textastic_parsers as tp
 import pprint as pp
+import sankey as sk
 
 
 def main():
@@ -9,7 +8,7 @@ def main():
     # initialize framework
     tt = Build()
 
-    # register some text files
+    # register the text files
     tt.load_text('C:/Users/ardem/classes/ds3500_hw3/bbc1', 'UK1')
     tt.load_text('C:/Users/ardem/classes/ds3500_hw3/bbc2', 'UK2')
     tt.load_text('C:/Users/ardem/classes/ds3500_hw3/moscow_times1', 'RUS1')
@@ -17,13 +16,10 @@ def main():
     tt.load_text('C:/Users/ardem/classes/ds3500_hw3/global_times1', 'CH1')
     tt.load_text('C:/Users/ardem/classes/ds3500_hw3/global_times2', 'CH2')
 
-    # produce some visualizations
+    # produce the visualizations
     pp.pprint(tt.data)
     #tt.compare_num_words()
     tt.sankey()
-
-
-
 
 
 if __name__ == '__main__':

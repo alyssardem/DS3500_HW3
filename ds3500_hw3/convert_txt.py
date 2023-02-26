@@ -1,38 +1,16 @@
 import urllib.request
 from bs4 import BeautifulSoup
 
-# # Russia Articles
-# urllib.request.urlretrieve("https://www.themoscowtimes.com/2023/02/22/muscovites-shrug-as-russia-marks-one-year-of-ukraine-war-a80281",
-#                            "C:/Users/ardem/classes/ds3500_hw3/textfile1_russia.txt")
-# urllib.request.urlretrieve("https://www.themoscowtimes.com/2023/02/22/heineken-denies-claim-it-broke-promise-to-exit-russian-market-a80309",
-#                            "C:/Users/ardem/classes/ds3500_hw3/textfile2_russia.txt")
-#
-# file_r1 = open("C:/Users/ardem/classes/ds3500_hw3/textfile1_russia.txt", errors="ignore")
-# file_r2 = open("C:/Users/ardem/classes/ds3500_hw3/textfile2_russia.txt", errors="ignore")
-#
-# contents_r1 = file_r1.read()
-# contents_r2 = file_r2.read()
-#
-# soup_r1 = BeautifulSoup(contents_r1, 'html.parser')
-# soup_r2 = BeautifulSoup(contents_r2, 'html.parser')
-# f_r1 = open("C:/Users/ardem/classes/ds3500_hw3/textfile1_russia.txt", "w")
-# f_r2 = open("C:/Users/ardem/classes/ds3500_hw3/textfile2_russia.txt", "w")
-#
-# # traverse paragraphs from soup
-# for data in soup_r1.find_all("p"):
-#     sum_r1 = data.get_text()
-#     f_r1.writelines(sum_r1)
-#
-# for data in soup_r2.find_all("p"):
-#     sum_r2 = data.get_text()
-#     f_r2.writelines(sum_r2)
-#
-# f_r1.close()
-# f_r2.close()
-
 
 def convert_txt(url: object, textfile_name: object, txt_name: object) -> object:
+    """ converts urls of news articles into txt info files and txt content files
+    url - website link
+    textfile_name - name to give txt info file
+    txt_name - name to give txt content file """
+    # retrieves given url and saves it into project folder
     urllib.request.urlretrieve(url, "C:/Users/ardem/classes/ds3500_hw3/" + textfile_name)
+
+    # opens, reads, and saves content
     f = open("C:/Users/ardem/classes/ds3500_hw3/" + textfile_name, "r", errors="ignore")
     contents = f.read()
     soup = BeautifulSoup(contents, 'html.parser')
@@ -43,6 +21,7 @@ def convert_txt(url: object, textfile_name: object, txt_name: object) -> object:
         sum = data.get_text()
         f.writelines(sum)
 
+    # close the file and return the txt files
     f.close()
 
     return f

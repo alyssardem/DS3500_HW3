@@ -1,6 +1,6 @@
 """
-Core framework class for NLP Comparative Analysis
-J. Rachlin
+framework for reading the txt files, adapting them, and running visualization programs
+Melissa and Alyssa
 """
 
 from collections import Counter, defaultdict
@@ -19,8 +19,12 @@ class Build:
 
     @staticmethod
     def _default_parser(filename):
+        """ creates a dict containing wordcount of every word in every article
+        and overall numwords for every article
+        filename - inputted files """
         file_obj = open(filename)
         file_data = file_obj.read()
+        # create results cased on splitting and counting file_data and the length of the file_data
         results = {
             'wordcount': dict(Counter(file_data.split())),
             'numwords': len(file_data)
@@ -52,28 +56,29 @@ class Build:
         self._save_results(label, results)
 
     def compare_num_words(self):
+        """ creates a bar chart where each bar is an article
+        and the height is that article's word count """
         num_words = self.data['numwords']
         for label, nw in num_words.items():
             plt.bar(label, nw)
         plt.show()
 
     def sankey(self):
-        """ generates a sankey diagram by turning wordcount dict into a df and running the df through sankey.py """
-        #     sk.make_sankey(stacked, "src", "targ", "vals")
-        # df = pd.DataFrame.from_dict(self.data['wordcount'])
-        # print(df)
-        # print(list(df.columns))
-        # print(df.index.values.tolist())
-        # sk.make_sankey(df, list(df.columns), df.index.values.tolist())
+        """ generates a sankey diagram by turning wordcount dict into a df
+        and running the df through sankey.py """
+        # creating an empty DataFrame containing columns for left, right, and width
         df = pd.DataFrame(columns=["articles", "words", "count"])
+
+        # iterating through article, then wordcount
         for key, val in self.data['wordcount'].items():
             for k, v in val.items():
-                # df2 = {'Name': 'Amy', 'Maths': 89, 'Science': 93}
-                # df = df.append(df2, ignore_index=True)
-                row = {'articles': key, 'words': k, 'count': v}
-                df = df.append(row, ignore_index=True)
-        sk.make_sankey(df, 'articles', 'words', 'count')
+                # appending to df each wordcount and its value
+                df.loc[len(df.index)] = [key, k, v]
+        # removing any count in df that is less than 6
+        df.drop(df.loc[df['count'] < 6].index, inplace=True)
 
+        # generate sankey diagram
+        sk.show_sankey(df, 'articles', 'words', 'count')
 
     def ind_chart(self):
         """ a for loop that returns a chart for every article """
