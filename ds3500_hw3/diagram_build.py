@@ -76,6 +76,8 @@ class Build:
                 df.loc[len(df.index)] = [key, k, v]
         # removing any count in df that is less than 6
         df.drop(df.loc[df['count'] < 6].index, inplace=True)
+        # removing any words in df with lengths less than 3
+        df.drop(df.loc[df['words'].str.len() < 3].index, inplace=True)
 
         # generate sankey diagram
         sk.show_sankey(df, 'articles', 'words', 'count')
