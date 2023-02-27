@@ -32,6 +32,7 @@ class Build:
         }
         file_obj.close()
         return results
+
     def generate_df(self):
         df = pd.DataFrame(columns=["articles", "words", "count"])
 
@@ -40,7 +41,9 @@ class Build:
             for k, v in val.items():
                 # appending to df each wordcount and its value
                 df.loc[len(df.index)] = [key, k, v]
+
         return df
+
     def _save_results(self, label, results):
         """ Integrate parsing results into internal state
         label: unique label for a text file that we parsed
@@ -91,5 +94,3 @@ class Build:
     def group_chart(self):
         fig = px.bar()
         """ same kind of chart as ind_chart but combines all the articles into one chart """
-
-
