@@ -56,7 +56,7 @@
 	<meta property="og:image:height" content="630">
 	<meta property="article:author" content="AFP">
 	<meta property="article:content_tier" content="free">
-	<meta property="article:modified_time" content="2023-02-25T18:32:09+03:00">
+	<meta property="article:modified_time" content="2023-02-27T17:50:22+03:00">
 	<meta property="article:published_time" content="2023-02-22T16:29:00+03:00">
 	<meta property="article:publisher" content="https://www.facebook.com/MoscowTimes">
 	<meta property="article:section" content="news">
@@ -68,7 +68,7 @@
 
 
 <script type="application/ld+json" data-json-ld-for-pagemetadata>
-	{"@context":"http:\/\/schema.org\/","@type":"NewsArticle","dateCreated":"2023-02-22T16:01:26+03:00","datePublished":"2023-02-22T16:29:00+03:00","dateModified":"2023-02-25T18:32:09+03:00","name":"Heineken Denies Claim it Broke Promise to Exit Russian Market ","headline":"Heineken Denies Claim it Broke Promise to Exit Russian Market ","description":"Dutch giant brewer Heineken said Wednesday that it still planned to exit Russia after a media report accusing it of \"breaking a promise\" to leave over Moscow's invasion of Ukraine.","keywords":"Sanctions,business","articleSection":"news","isAccessibleForFree":true,"mainEntityOfPage":"https:\/\/www.themoscowtimes.com\/2023\/02\/22\/heineken-denies-claim-it-broke-promise-to-exit-russian-market-a80309","url":"https:\/\/www.themoscowtimes.com\/2023\/02\/22\/heineken-denies-claim-it-broke-promise-to-exit-russian-market-a80309","thumbnailUrl":"https:\/\/static.themoscowtimes.com\/image\/320\/31\/TASS_51788659.jpg","image":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/image\/og\/af\/80309__af41f8247d4b8d673089a3e209b35d58.jpg","width":1200,"height":630},"publisher":{"@type":"Organization","name":"The Moscow Times","logo":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/img\/logo.png","width":50,"height":50}},"inLanguage":{"@type":"Language","name":"English","alternateName":"English"},"creator":"AFP","author":{"@type":"Person","name":"AFP","description":null,"image":"https:\/\/static.themoscowtimes.com\/avatar_default.jpg","url":"https:\/\/www.themoscowtimes.com\/author\/afp-6"}}</script> <script type="application/ld+json" data-json-ld-for-pagemetadata>
+	{"@context":"http:\/\/schema.org\/","@type":"NewsArticle","dateCreated":"2023-02-22T16:01:26+03:00","datePublished":"2023-02-22T16:29:00+03:00","dateModified":"2023-02-27T17:50:22+03:00","name":"Heineken Denies Claim it Broke Promise to Exit Russian Market ","headline":"Heineken Denies Claim it Broke Promise to Exit Russian Market ","description":"Dutch giant brewer Heineken said Wednesday that it still planned to exit Russia after a media report accusing it of \"breaking a promise\" to leave over Moscow's invasion of Ukraine.","keywords":"Sanctions,business","articleSection":"news","isAccessibleForFree":true,"mainEntityOfPage":"https:\/\/www.themoscowtimes.com\/2023\/02\/22\/heineken-denies-claim-it-broke-promise-to-exit-russian-market-a80309","url":"https:\/\/www.themoscowtimes.com\/2023\/02\/22\/heineken-denies-claim-it-broke-promise-to-exit-russian-market-a80309","thumbnailUrl":"https:\/\/static.themoscowtimes.com\/image\/320\/31\/TASS_51788659.jpg","image":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/image\/og\/af\/80309__af41f8247d4b8d673089a3e209b35d58.jpg","width":1200,"height":630},"publisher":{"@type":"Organization","name":"The Moscow Times","logo":{"@type":"ImageObject","url":"https:\/\/static.themoscowtimes.com\/img\/logo.png","width":50,"height":50}},"inLanguage":{"@type":"Language","name":"English","alternateName":"English"},"creator":"AFP","author":{"@type":"Person","name":"AFP","description":null,"image":"https:\/\/static.themoscowtimes.com\/avatar_default.jpg","url":"https:\/\/www.themoscowtimes.com\/author\/afp-6"}}</script> <script type="application/ld+json" data-json-ld-for-pagemetadata>
 	{"@context":"http:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"The Moscow Times","item":"https:\/\/www.themoscowtimes.com\/"},{"@type":"ListItem","position":2,"name":"Business","item":"https:\/\/www.themoscowtimes.com\/business"},{"@type":"ListItem","position":3,"name":"Heineken Denies Claim it Broke Promise to Exit Russian Market ","item":"https:\/\/www.themoscowtimes.com\/2023\/02\/22\/heineken-denies-claim-it-broke-promise-to-exit-russian-market-a80309"}]}</script> 
   <!-- load stylesheets -->
   <link type="text/css" href="https://static.themoscowtimes.com/css/main.css?v=47" rel="stylesheet"
@@ -477,7 +477,7 @@
 								class="article__block article__block--article article__block--column ">
 										<aside class="article__related-article">
 		<span class="label related-article__label label--default">news</span>
-		<a y-use="article.ElementIntersection" data-id="in-article-block" class="related-article__inner" href="https://www.themoscowtimes.com/2023/02/25/heineken-carlsberg-and-universal-music-join-russia-exodus" title="Heineken, Carlsberg and Universal Music Join Russia Exodus">
+		<a y-use="article.ElementIntersection" data-id="in-article-block" class="related-article__inner" href="https://www.themoscowtimes.com/2023/02/27/heineken-carlsberg-and-universal-music-join-russia-exodus" title="Heineken, Carlsberg and Universal Music Join Russia Exodus">
 			<h3 class="related-article__title">
 				Heineken, Carlsberg and Universal Music Join Russia Exodus			</h3>
 			<span class="related-article__cta">Read more</span>
@@ -566,71 +566,75 @@
 			<li class="listed-articles__item">
 			
 <div class="article-excerpt-tiny">
-	<a href="https://www.themoscowtimes.com/2023/02/25/russias-regional-arts-struggle-on-after-year-of-war-a80299" title="Russia’s Regional Arts Struggle On After Year of War">
-					<time class="article-excerpt-tiny__time  "  datetime="2023-02-25T12:54:37+03:00" y-use="Timeago" >
-				Feb. 25, 2023			</time>
+	<a href="https://www.themoscowtimes.com/2023/02/27/russia-in-firing-line-as-un-human-rights-and-disarmament-bodies-meet-a80350" title="Russia in Firing Line as UN Human Rights and Disarmament Bodies Meet">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-27T18:50:40+03:00" y-use="Timeago" >
+				Feb. 27, 2023			</time>
 				<h5 class="article-excerpt-tiny__headline ">
-			Russia’s Regional Arts Struggle On After Year of War		</h5>
+			Russia in Firing Line as UN Human Rights and Disarmament Bodies Meet		</h5>
 	</a>
 </div>		</li>
 			<li class="listed-articles__item">
 			 
 <div class="article-excerpt-tiny">
-	<a href="https://www.themoscowtimes.com/2023/02/25/eu-imposes-fresh-sanctions-on-121-russian-businesses-and-individuals-a80339" title="EU Imposes Fresh Sanctions on 121 Russian Businesses and Individuals">
-					<time class="article-excerpt-tiny__time  "  datetime="2023-02-25T12:39:00+03:00" y-use="Timeago" >
-				Feb. 25, 2023			</time>
+	<a href="https://www.themoscowtimes.com/2023/02/27/floral-tributes-to-murdered-opposition-leader-reported-across-russia-a80347" title="Floral Tributes to Murdered Opposition Leader Reported Across Russia">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-27T18:17:00+03:00" y-use="Timeago" >
+				Feb. 27, 2023			</time>
 				<h5 class="article-excerpt-tiny__headline ">
-			EU Imposes Fresh Sanctions on 121 Russian Businesses and Individuals		</h5>
+			Floral Tributes to Murdered Opposition Leader Reported Across Russia		</h5>
 	</a>
 </div> 		</li>
 			<li class="listed-articles__item">
 			 
 <div class="article-excerpt-tiny">
-	<a href="https://www.themoscowtimes.com/2023/02/25/a-blini-bash-for-the-last-day-of-maslenitsa-a80338" title="A Blini Bash for the Last Day of Maslenitsa">
-					<time class="article-excerpt-tiny__time  "  datetime="2023-02-25T06:56:00+03:00" y-use="Timeago" >
-				Feb. 25, 2023			</time>
+	<a href="https://www.themoscowtimes.com/2023/02/27/putin-awards-friendship-medal-to-action-movie-star-steven-seagal-a80349" title="Putin Awards Friendship Medal to Action Movie Star Steven Seagal
+
+">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-27T18:07:00+03:00" y-use="Timeago" >
+				Feb. 27, 2023			</time>
 				<h5 class="article-excerpt-tiny__headline ">
-			A Blini Bash for the Last Day of Maslenitsa		</h5>
+			Putin Awards Friendship Medal to Action Movie Star Steven Seagal
+
+		</h5>
 	</a>
 </div> 		</li>
 			<li class="listed-articles__item">
 			 
 <div class="article-excerpt-tiny">
-	<a href="https://www.themoscowtimes.com/2023/02/24/thousands-in-georgia-rally-in-ukraines-support-on-invasion-anniversary-a80336" title="Thousands in Georgia Rally in Ukraine’s Support on Invasion Anniversary">
-					<time class="article-excerpt-tiny__time  "  datetime="2023-02-24T21:41:00+03:00" y-use="Timeago" >
-				Feb. 24, 2023			</time>
+	<a href="https://www.themoscowtimes.com/2023/02/27/belarus-seeks-19-years-in-jail-for-exiled-opposition-leader-a80348" title="Belarus Seeks 19 Years in Jail for Exiled Opposition Leader">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-27T16:47:32+03:00" y-use="Timeago" >
+				Feb. 27, 2023			</time>
 				<h5 class="article-excerpt-tiny__headline ">
-			Thousands in Georgia Rally in Ukraine’s Support on Invasion Anniversary		</h5>
+			Belarus Seeks 19 Years in Jail for Exiled Opposition Leader		</h5>
 	</a>
 </div> 		</li>
 			<li class="listed-articles__item">
 			 
 <div class="article-excerpt-tiny">
-	<a href="https://www.themoscowtimes.com/2023/02/24/zelensky-eyes-victory-for-ukraine-on-anniversary-of-russia-conflict-a80330" title="Zelensky Eyes Victory for Ukraine on Anniversary of Russia Conflict">
-					<time class="article-excerpt-tiny__time  "  datetime="2023-02-24T21:03:00+03:00" y-use="Timeago" >
-				Feb. 24, 2023			</time>
+	<a href="https://www.themoscowtimes.com/2023/02/27/trapped-in-putins-embrace-erdogans-russian-dilemma-a80162" title="Trapped in Putin's Embrace: Erdogan's Russian Dilemma">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-27T16:41:47+03:00" y-use="Timeago" >
+				Feb. 27, 2023			</time>
 				<h5 class="article-excerpt-tiny__headline ">
-			Zelensky Eyes Victory for Ukraine on Anniversary of Russia Conflict		</h5>
+			Trapped in Putin's Embrace: Erdogan's Russian Dilemma		</h5>
 	</a>
 </div> 		</li>
 			<li class="listed-articles__item">
 			 
 <div class="article-excerpt-tiny">
-	<a href="https://www.themoscowtimes.com/2023/02/24/us-beefs-up-russia-sanctions-on-ukraine-invasion-anniversary-a80335" title="U.S. Beefs Up Russia Sanctions on Ukraine Invasion Anniversary">
-					<time class="article-excerpt-tiny__time  "  datetime="2023-02-24T18:44:00+03:00" y-use="Timeago" >
-				Feb. 24, 2023			</time>
+	<a href="https://www.themoscowtimes.com/2023/02/27/jailed-russian-journalist-safronov-says-moved-to-siberian-prison-a80346" title="Jailed Russian Journalist Safronov Says Moved to Siberian Prison">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-27T15:47:14+03:00" y-use="Timeago" >
+				Feb. 27, 2023			</time>
 				<h5 class="article-excerpt-tiny__headline ">
-			U.S. Beefs Up Russia Sanctions on Ukraine Invasion Anniversary		</h5>
+			Jailed Russian Journalist Safronov Says Moved to Siberian Prison		</h5>
 	</a>
 </div> 		</li>
 			<li class="listed-articles__item">
 			 
 <div class="article-excerpt-tiny">
-	<a href="https://www.themoscowtimes.com/2023/02/24/anti-war-russians-detained-at-muted-anniversary-protests-a80332" title="Anti-War Russians Detained at Muted Anniversary Protests">
-					<time class="article-excerpt-tiny__time  "  datetime="2023-02-24T17:34:00+03:00" y-use="Timeago" >
-				Feb. 24, 2023			</time>
+	<a href="https://www.themoscowtimes.com/2023/02/27/in-photos-russians-welcome-winters-end-with-maslenitsa-festivities-a80343" title="In Photos: Russians Welcome Winter's End with Maslenitsa Festivities">
+					<time class="article-excerpt-tiny__time  "  datetime="2023-02-27T15:28:04+03:00" y-use="Timeago" >
+				Feb. 27, 2023			</time>
 				<h5 class="article-excerpt-tiny__headline ">
-			Anti-War Russians Detained at Muted Anniversary Protests		</h5>
+			In Photos: Russians Welcome Winter's End with Maslenitsa Festivities		</h5>
 	</a>
 </div> 		</li>
 	</ul>								</div>
@@ -640,80 +644,82 @@
 						<li class="ranked-articles__item">
 			
 <div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
-	<a href="https://www.themoscowtimes.com/2023/02/24/russia-says-ukraine-preparing-armed-provocation-in-breakaway-transnistria-a80316" title="Russia Says Ukraine Preparing ‘Armed Provocation’ in Breakaway Transnistria ">
+	<a href="https://www.themoscowtimes.com/2023/02/26/9-russian-cultural-and-sporting-figures-who-emigrated-in-a-year-of-war-a80238" title="9 Russian Cultural and Sporting Figures Who Emigrated in a Year of War">
 		<div class="article-excerpt-ranked__rank">
 			1		</div>
 		<div class="article-excerpt-ranked__item">
-							
+							 
 
 	<span class="label article-excerpt-ranked__label">
-		rising tensions	</span>
-									<h5 class="article-excerpt-ranked__headline">
-				Russia Says Ukraine Preparing ‘Armed Provocation’ in Breakaway Transnistria 			</h5>
+		lost luminaries	</span>
+ 									<h5 class="article-excerpt-ranked__headline">
+				9 Russian Cultural and Sporting Figures Who Emigrated in a Year of War			</h5>
 		</div>
 	</a>
 </div>		</li>
 					<li class="ranked-articles__item">
 			 
 <div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
-	<a href="https://www.themoscowtimes.com/2023/02/24/zelensky-eyes-victory-for-ukraine-on-anniversary-of-russia-conflict-a80330" title="Zelensky Eyes Victory for Ukraine on Anniversary of Russia Conflict">
+	<a href="https://www.themoscowtimes.com/2023/02/26/a-fight-for-survival-what-victory-looks-like-to-putin-a80331" title="A Fight for Survival: What Victory Looks Like to Putin">
 		<div class="article-excerpt-ranked__rank">
 			2		</div>
 		<div class="article-excerpt-ranked__item">
 							 
 
-	<span class="label article-excerpt-ranked__label">
-		'we were not defeated'	</span>
- 									<h5 class="article-excerpt-ranked__headline">
-				Zelensky Eyes Victory for Ukraine on Anniversary of Russia Conflict			</h5>
+	<span class="label article-excerpt-ranked__label label--opinion article-excerpt-ranked__label--opinion">
+		opinion	</span>
+ 										<span class="article-excerpt-ranked__author">
+					Tatiana Stanovaya				</span>
+						<h5 class="article-excerpt-ranked__headline">
+				A Fight for Survival: What Victory Looks Like to Putin			</h5>
 		</div>
 	</a>
 </div> 		</li>
 					<li class="ranked-articles__item">
 			 
 <div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
-	<a href="https://www.themoscowtimes.com/2023/02/24/russias-wagner-claims-capture-of-ukraine-village-near-bakhmut-a80325" title="Russia&#039;s Wagner Claims Capture of Ukraine Village Near Bakhmut">
+	<a href="https://www.themoscowtimes.com/2023/02/26/nato-taking-part-in-ukraine-conflict-with-arms-supplies-putin-a80340" title="NATO Taking Part in Ukraine Conflict With Arms Supplies — Putin">
 		<div class="article-excerpt-ranked__rank">
 			3		</div>
 		<div class="article-excerpt-ranked__item">
 							 
 
 	<span class="label article-excerpt-ranked__label">
-		creeping advance	</span>
+		Weapon deliveries	</span>
  									<h5 class="article-excerpt-ranked__headline">
-				Russia's Wagner Claims Capture of Ukraine Village Near Bakhmut			</h5>
+				NATO Taking Part in Ukraine Conflict With Arms Supplies — Putin			</h5>
 		</div>
 	</a>
 </div> 		</li>
 					<li class="ranked-articles__item">
 			 
 <div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
-	<a href="https://www.themoscowtimes.com/2023/02/24/ex-president-medvedev-says-russia-must-win-in-ukraine-to-push-back-threats-a80329" title="Ex-President Medvedev Says Russia Must Win in Ukraine">
+	<a href="https://www.themoscowtimes.com/2023/02/27/russian-plane-destroyed-at-belarus-airstrip-opposition-a80342" title="Russian Plane Destroyed at Belarus Airstrip – Opposition">
 		<div class="article-excerpt-ranked__rank">
 			4		</div>
 		<div class="article-excerpt-ranked__item">
 							 
 
 	<span class="label article-excerpt-ranked__label">
-		'push back threats'	</span>
+		news	</span>
  									<h5 class="article-excerpt-ranked__headline">
-				Ex-President Medvedev Says Russia Must Win in Ukraine			</h5>
+				Russian Plane Destroyed at Belarus Airstrip – Opposition			</h5>
 		</div>
 	</a>
 </div> 		</li>
 					<li class="ranked-articles__item">
 			 
 <div class="article-excerpt-ranked ranked-articles__article-excerpt-ranked">
-	<a href="https://www.themoscowtimes.com/2023/02/24/the-photos-that-have-defined-russias-one-year-invasion-of-ukraine-a80278" title="The Photos That Have Defined Russia&#039;s One-Year Invasion of Ukraine">
+	<a href="https://www.themoscowtimes.com/2023/02/27/ex-kremlin-adviser-gleb-pavlovsky-dies-at-71-a80344" title="Ex-Kremlin Adviser Gleb Pavlovsky Dies at 71">
 		<div class="article-excerpt-ranked__rank">
 			5		</div>
 		<div class="article-excerpt-ranked__item">
 							 
 
 	<span class="label article-excerpt-ranked__label">
-		military fatigue	</span>
+		political architect	</span>
  									<h5 class="article-excerpt-ranked__headline">
-				The Photos That Have Defined Russia's One-Year Invasion of Ukraine			</h5>
+				Ex-Kremlin Adviser Gleb Pavlovsky Dies at 71			</h5>
 		</div>
 	</a>
 </div> 		</li>

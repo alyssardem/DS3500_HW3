@@ -1,0 +1,868 @@
+<!doctype html><html class="no-js" lang="en"><head><!-- OneTrust Cookies Consent Notice start for npr.org -->
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/82089dfe-410c-4e1b-a7f9-698174b62a86/OtAutoBlock.js" ></script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="82089dfe-410c-4e1b-a7f9-698174b62a86" ></script>
+
+<script type="text/javascript">
+function OptanonWrapper() {
+    NPR_OptanonWrapper = true;
+    document.dispatchEvent(new CustomEvent('npr:DataConsentAvailable'));
+    
+    OneTrust.OnConsentChanged(function() {
+        document.dispatchEvent(new CustomEvent('npr:DataConsentChanged'));
+    });
+ }
+</script>
+<!-- OneTrust Cookies Consent Notice end for npr.org -->
+<script src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript" charset="UTF-8" ccpa-opt-out-ids="C0004" ccpa-opt-out-geo="us" ccpa-opt-out-lspa="false"></script><script type="text/plain" class="optanon-category-C0004">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);
+</script><script>
+(function (e, o, n, i) {
+    if (!e) {
+        e = e || {}, window.permutive = e, e.q = [];
+        var t = function () {
+            return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) {
+                return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16)
+            })
+        };
+        e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t());
+        for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) {
+            var w = g[r];
+            e[w] = function (o) {
+                return function () {
+                    var n = Array.prototype.slice.call(arguments, 0);
+                    e.q.push({functionName: o, arguments: n})
+                };
+            }(w);
+        }
+    }
+})(window.permutive, "12730e07-f09d-4a69-93da-99b43983b663", "e1cef1f0-495f-4973-ba1c-880786e73a66", {"consentRequired": true});
+</script>
+
+
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://n.pr/tech-jobs
+
+-->
+
+
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Trends to watch as Russia-Ukraine war heads into second year : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta id="google-site-verification" name="google-site-verification" content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow,max-image-preview:large" /><meta name="apple-itunes-app" content="app-id=324906251, app-argument=https://www.npr.org/2023/02/25/1159274649/key-trends-russia-ukraine-war-second-year" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2023-02-25" /><link rel="canonical" href="https://www.npr.org/2023/02/25/1159274649/key-trends-russia-ukraine-war-second-year" /><meta name="description" content="Russia&#039;s military has performed poorly, and Ukraine has defied expectations. But will these trends hold? Experts look at how the war could take a different path in its second year." /><link rel="alternate" type="application/rss+xml" title="Europe" href="https://feeds.npr.org/1124/rss.xml" /><link rel="alternate" type="application/rss+xml" title="Ukraine invasion &mdash; explained" href="https://feeds.npr.org/1082539802/rss.xml" /><link rel="alternate" type="application/json" title="Europe" href="https://feeds.npr.org/feeds/1124/feed.json" /><link rel="alternate" type="application/json" title="Ukraine invasion &mdash; explained" href="https://feeds.npr.org/feeds/1082539802/feed.json" /><meta name="cXenseParse:pageclass" content="article" /><meta name="cXenseParse:publishtime" content="2023-02-25T07:52:05-05:00" /><meta name="cXenseParse:author" content="Greg Myre" /><link rel="apple-touch-icon" sizes="180x180" href="https://static-assets.npr.org/static/images/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://static-assets.npr.org/static/images/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://static-assets.npr.org/static/images/favicon/favicon-16x16.png" /><meta property="og:title" content="The key trends to watch in the Russia-Ukraine war" /><meta property="og:url" content="https://www.npr.org/2023/02/25/1159274649/key-trends-russia-ukraine-war-second-year" /><meta property="og:type" content="article" /><meta property="og:description" content="Russia&#039;s military has performed poorly, and Ukraine has defied expectations. But will these trends hold? Experts look at how the war could take a different path in its second year." /><meta property="og:image" content="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_wide-885ece65069fe547723de9e54fde72503a0c7990-s1400-c100.jpg" /><meta property="og:image" content="https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_wide-8169ecf0771dd3c7d716380481f7fc182590d5ab-s1400-c100.jpg" /><meta property="og:site_name" content="NPR" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta property="article:content_tier" content="free" /><meta property="article:opinion" content="false" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="The key trends to watch in the Russia-Ukraine war" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_wide-885ece65069fe547723de9e54fde72503a0c7990-s1400-c100.jpg" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"cookieDomain":".npr.org"};
+NPR.serverVars = {"storyId":"1159274649","isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/bundles.npr.org\/dist\/bundles\/","persistenceVersion":"5e08a7422d579e5b87014718f92b4e91","isBuildOut":true,"topicIds":["P1124","1001","1002","1004","1122"],"primaryTopic":"Europe","topics":["Europe","Home Page Top Stories","Europe","National Security","World","News"],"theme":"1082539802","programId":"Weekend Edition Saturday","program":"7","aggIds":["7","1001","1002","1004","1122","1124","191676894","434975886","1082539802","1088064796","1159528572"],"byline":["Greg Myre"],"contentPartnerOrgFullName":"1 | NPR","pubDate":"2023022507","fullPubDate":"Sat, 25 Feb 2023 07:52:05 -0500","pageTypeId":"1","title":"The key trends to watch in the Russia-Ukraine war","publisherOrgId":"1"};
+</script>
+<script type="text/javascript" src="https://static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script type="text/javascript" async src="https://js.stripe.com/v3/">
+   </script>
+<script>
+   !function(e){function r(r){for(var c,f,o=r[0],d=r[1],b=r[2],i=0,l=[];i<o.length;i++)f=o[i],Object.prototype.hasOwnProperty.call(a,f)&&a[f]&&l.push(a[f][0]),a[f]=0;for(c in d)Object.prototype.hasOwnProperty.call(d,c)&&(e[c]=d[c]);for(u&&u(r);l.length;)l.shift()();return n.push.apply(n,b||[]),t()}function t(){for(var e,r=0;r<n.length;r++){for(var t=n[r],c=!0,o=1;o<t.length;o++){var d=t[o];0!==a[d]&&(c=!1)}c&&(n.splice(r--,1),e=f(f.s=t[0]))}return e}var c={},a={0:0},n=[];function f(r){if(c[r])return c[r].exports;var t=c[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,f),t.l=!0,t.exports}f.e=function(e){var r=[],t=a[e];if(0!==t)if(t)r.push(t[2]);else{var c=new Promise((function(r,c){t=a[e]=[r,c]}));r.push(t[2]=c);var n,o=document.createElement("script");o.charset="utf-8",o.timeout=120,f.nc&&o.setAttribute("nonce",f.nc),o.src=function(e){return f.p+""+e+"."+{1:"d8e26a79962103289a29",2:"b21d87b37b33442cf9a4",3:"7ea02041da257dd6dfaf",4:"305bf64b70a43a246ae7",5:"dbaad0b9d24a0df33f2e",6:"cd82fcb06adeebe6939c",7:"c4046bfa7733c33992ca",8:"c5b30384cc3c8b744e2e",73:"c11a36b9065ed4f06833",74:"2e3c946f5bf8b3b3fce2",75:"f820929db7d4b80d97a4",76:"757ab88486af115b17c3",77:"b34a5033972a3b91d4f3",78:"ceb6834caef41c1779fe",79:"f57c6e324e7b5ea7b873",80:"3f1e0380e4cd0213bc28",81:"0dbf4717225024fca8c4",82:"99bcc0521ab34cc99214",83:"c12d1498a1f2444555e4",84:"9d5acc808d471a16e830",85:"06142dcb41b087d5d7eb",86:"1a788885e22fafa0d373",87:"0c8d383c13d766ecc0e3",88:"7c93271ec1ce16e09291",89:"41a417d16612f061e49d",90:"ec93ac29b420ea98573c",91:"af5b0d5c0ab5a15ec551",92:"d860c54cab0414cb8558",93:"1b31a5fe0d6590105f9c",94:"90f9773688f7f5af5e42",95:"dc85fb1d9b44d0f3aac9",96:"4e32bed11ffebecd44c1",97:"877839bf3710213e1586",98:"bd0785f086d2872b029d",99:"c900eed983f55b8c7a61",100:"98622088f8c866d01df3",101:"8848fa529081af280c47",102:"5b8fa8cfd69a006865de"}[e]+".chunk.js"}(e);var d=new Error;n=function(r){o.onerror=o.onload=null,clearTimeout(b);var t=a[e];if(0!==t){if(t){var c=r&&("load"===r.type?"missing":r.type),n=r&&r.target&&r.target.src;d.message="Loading chunk "+e+" failed.\n("+c+": "+n+")",d.name="ChunkLoadError",d.type=c,d.request=n,t[1](d)}a[e]=void 0}};var b=setTimeout((function(){n({type:"timeout",target:o})}),12e4);o.onerror=o.onload=n,document.head.appendChild(o)}return Promise.all(r)},f.m=e,f.c=c,f.d=function(e,r,t){f.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},f.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},f.t=function(e,r){if(1&r&&(e=f(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(f.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var c in e)f.d(t,c,function(r){return e[r]}.bind(null,c));return t},f.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return f.d(r,"a",r),r},f.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},f.p="/dist/bundles/",f.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],d=o.push.bind(o);o.push=r,o=o.slice();for(var b=0;b<o.length;b++)r(o[b]);var u=d;t()}([]);
+</script>
+<script type="text/javascript" src="https://bundles.npr.org/dist/bundles/33.7049c683546b82fea0ae.chunk.js">
+   </script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/persistent-css-cb32744c602d77f241e8.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 768px)" href="https://bundles.npr.org/dist/bundles/persistent_medium-css-cb32744c602d77f241e8.css" /><link rel="stylesheet" data-persist="true" media="screen and (min-width: 1025px)" href="https://bundles.npr.org/dist/bundles/persistent_large-css-cb32744c602d77f241e8.css" /><link rel="preload" data-persist="true" media="screen, print" href="https://bundles.npr.org/dist/bundles/fonts-css-cb32744c602d77f241e8.css" as="style" onload="this.onload=null;this.rel='stylesheet'"  /><link rel="stylesheet" media="screen, print" href="https://bundles.npr.org/dist/bundles/newsStory-css-cb32744c602d77f241e8.css" /><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"NPR","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo.jpg"}},"headline":"The key trends to watch in the Russia-Ukraine war","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"},"datePublished":"2023-02-25T07:52:05-05:00","dateModified":"2023-02-25T07:52:05-05:00","author":{"@type":"Person","name":["Greg Myre"]},"description":"Russia's military has performed poorly, and Ukraine has defied expectations. But will these trends hold? Experts look at how the war could take a different path in its second year.","image":[{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2023\/02\/24\/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2023\/02\/24\/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f.jpg"}],"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+<script id="piano-aid" type="text/javascript" data-piano-aid="9ENxKQ58pu">
+    (function(src) {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = src;
+        var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b)
+    })("//cdn.piano.io/api/tinypass.min.js");
+    
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = true;
+</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="MBVDT-3L9KY-36ZMJ-SPSAR-JR833",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"MBVDT-3L9KY-36ZMJ-SPSAR-JR833";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="tmqymoaxadsjiy7435ia-f-654b79d8a-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"34","ak.cp":"55818","ak.ai":parseInt("290690",10),"ak.ol":"0","ak.cr":10,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"34262a0d","ak.r":40940,"ak.a2":n,"ak.m":"dscf","ak.n":"essl","ak.bpcip":"155.33.134.0","ak.cport":43177,"ak.gh":"23.34.58.214","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1677516624","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==PIw6J1RuBuAOBtQ4bBS/nyxcp8drnu6Ax8Yr82HDTSPI3Q+w9qfwWUc0+i4C5LkNZNMRRsEgtUxBCyBtvOEp1fE+lOagR02iPAGm9IB3WLW4GyTMoq/Tm7BfIQzllIOrksWE5IQPfLxk5gGCzfEUIB30m6JPw+SNk6aS3y7LGo2sR+828mwFuQrnTtWvdTtFhfI2ubLdsytoRaGMDDDYO+BbC7eW7eQhi0uQ/9Cl6CpX5ZQMv+MbHNqU1Mr3/X0YbOTclcc3TyccQkmqC3K8WBp8jfmE9i/kP7x4Z34c/oHSgISqmUPCCWe5N6i6G3Tr/jqO9WUgf6An8wWVTj+w88Hcb2AaFE1zpXgFfhjhweouPQR52U+4+aYDCvpCGTrIMxOWISMHf5oDXd1VajhCMwMOZgX+eZxw4vgy6SxeqxU=","ak.pv":"71","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body id="news" class="news tmplNewsStory  story-layout is-buildout no-transcript  id1159274649  " data-pjax-modules="util/env images/lazy-load data-consent data-management-platform header-bidding metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts we-are-hiring piano ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout social/recaptcha">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+      <span>Accessibility links</span>   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<header class="npr-header" id="globalheader" aria-label="NPR header">
+<nav class="navigation">
+    <div class="navigation__top-level-wrap" data-metrics-all data-metrics-category="global navigation" data-metrics-category-ga4="recirculation">
+        <ul class="navigation__top-level">
+            <li class="navigation__toggle-wrap">
+                <button id="navigation__toggle--open" class="navigation__toggle navigation__toggle--open" aria-haspopup="true" aria-expanded="false" data-metrics-action="open navigation menu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"open navigation menu","clickType":"global navigation"}'>
+                    Open Navigation Menu
+                </button>
+            </li>
+
+            <li class="navigation__home">
+                <a href="/" data-metrics-action="click npr logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}'>
+                    <img src="https://media.npr.org/chrome_svg/npr-logo.svg" alt="NPR logo"/>
+                </a>
+            </li>
+
+            <li id="navigation__station-mount"></li>
+
+            <li id="user-account-dropdown-mount" class="navigation__account"></li>
+
+            <li class="navigation__shop">
+                <a href="https://shopnpr.org" data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}'>NPR Shop</a>
+            </li>
+
+            <li id="navigation__station-donate-mount"></li>
+        </ul>
+    </div>
+    <section id="main-menu" class="menu menu--main" data-metrics-all data-metrics-category="global navigation" data-metrics-category-ga4="recirculation">
+        <div class="menu__inner">
+            <header class="menu__header">
+                <button id="navigation__toggle--close" class="navigation__toggle navigation__toggle--close" aria-haspopup="true" aria-expanded="true" data-metrics-action="close navigation menu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"close navigation menu","clickType":"global navigation"}'>>
+                    Close <span>Navigation Menu</span>
+                </button>
+            </header>
+            <ul class="menu__list">
+                <li class="menu__item menu__item--home">
+                    <div class="menu__item-inner"><a href="/" data-metrics-action="click npr logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}'>Home</a></div>
+                </li>
+                <li class="menu__item menu__item--news menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/news/" data-metrics-action="click news" data-metrics-ga4='{"action":"global_navigation_click","clickName":"news","clickType":"global navigation","clickUrl":"/sections/news/"}'>News</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle news drawer" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle news drawer","clickType":"global navigation"}'>Expand/collapse submenu for News</button>
+                    </div>
+
+                    <ul class="submenu submenu--news">
+                        <li class="submenu__item"><a href="/sections/national/" data-metrics-action="click national" data-metrics-ga4='{"action":"global_navigation_click","clickName":"national","clickType":"global navigation","clickUrl":"/sections/national/"}'>National</a></li>
+                        <li class="submenu__item"><a href="/sections/world/" data-metrics-action="click world" data-metrics-ga4='{"action":"global_navigation_click","clickName":"world","clickType":"global navigation","clickUrl":"/sections/world/"}'>World</a></li>
+                        <li class="submenu__item"><a href="/sections/politics/" data-metrics-action="click politics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"politics","clickType":"global navigation","clickUrl":"/sections/politics/"}'>Politics</a></li>
+                        <li class="submenu__item"><a href="/sections/business/" data-metrics-action="click business" data-metrics-ga4='{"action":"global_navigation_click","clickName":"business","clickType":"global navigation","clickUrl":"/sections/business/"}'>Business</a></li>
+                        <li class="submenu__item"><a href="/sections/health/" data-metrics-action="click health" data-metrics-ga4='{"action":"global_navigation_click","clickName":"health","clickType":"global navigation","clickUrl":"/sections/health/"}'>Health</a></li>
+                        <li class="submenu__item"><a href="/sections/science/" data-metrics-action="click science" data-metrics-ga4='{"action":"global_navigation_click","clickName":"science","clickType":"global navigation","clickUrl":"/sections/science/"}'>Science</a></li>
+                        <li class="submenu__item"><a href="/sections/climate/" data-metrics-action="click climate" data-metrics-ga4='{"action":"global_navigation_click","clickName":"climate","clickType":"global navigation","clickUrl":"/sections/climate/"}'>Climate</a></li>
+                        <li class="submenu__item"><a href="/sections/codeswitch/" data-metrics-action="click race" data-metrics-ga4='{"action":"global_navigation_click","clickName":"race","clickType":"global navigation","clickUrl":"/sections/codeswitch/"}'>Race</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--culture menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/sections/culture/" data-metrics-action="click culture" data-metrics-ga4='{"action":"global_navigation_click","clickName":"culture","clickType":"global navigation","clickUrl":"/sections/culture/"}'>Culture</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle culture drawer" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle culture drawer","clickType":"global navigation"}'>Expand/collapse submenu for Culture</button>
+                    </div>
+
+                    <ul class="submenu submenu--culture">
+                        <li class="submenu__item"><a href="/books/" data-metrics-action="click books" data-metrics-ga4='{"action":"global_navigation_click","clickName":"books","clickType":"global navigation","clickUrl":"/books/"}'>Books</a></li>
+                        <li class="submenu__item"><a href="/sections/movies/" data-metrics-action="click movies" data-metrics-ga4='{"action":"global_navigation_click","clickName":"movies","clickType":"global navigation","clickUrl":"/sections/movies/"}'>Movies</a></li>
+                        <li class="submenu__item"><a href="/sections/television/" data-metrics-action="click television" data-metrics-ga4='{"action":"global_navigation_click","clickName":"television","clickType":"global navigation","clickUrl":"/sections/television/"}'>Television</a></li>
+                        <li class="submenu__item"><a href="/sections/pop-culture/" data-metrics-action="click pop culture" data-metrics-ga4='{"action":"global_navigation_click","clickName":"pop culture","clickType":"global navigation","clickUrl":"/sections/pop-culture/"}'>Pop Culture</a></li>
+                        <li class="submenu__item"><a href="/sections/food/" data-metrics-action="click food" data-metrics-ga4='{"action":"global_navigation_click","clickName":"food","clickType":"global navigation","clickUrl":"/sections/food/"}'>Food</a></li>
+                        <li class="submenu__item"><a href="/sections/art-design/" data-metrics-action="click art & design" data-metrics-ga4='{"action":"global_navigation_click","clickName":"art & design","clickType":"global navigation","clickUrl":"/sections/art-design/"}'>Art &amp; Design</a> </li>
+                        <li class="submenu__item"><a href="/sections/performing-arts/" data-metrics-action="click performing arts" data-metrics-ga4='{"action":"global_navigation_click","clickName":"performing arts","clickType":"global navigation","clickUrl":"/sections/performing-arts/"}'>Performing Arts</a></li>
+                        <li class="submenu__item"><a href="/lifekit/" data-metrics-action="click life kit" data-metrics-ga4='{"action":"global_navigation_click","clickName":"life kit","clickType":"global navigation","clickUrl":"/lifekit/"}'>Life Kit</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item menu__item--music menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/music/" data-metrics-action="click music" data-metrics-ga4='{"action":"global_navigation_click","clickName":"music","clickType":"global navigation","clickUrl":"/music/"}'>Music</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle music drawer" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle music drawer","clickType":"global navigation"}'>Expand/collapse submenu for Music</button>
+                    </div>
+
+                    <ul class="submenu submenu--music"><li class="submenu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' >
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/1002643619/now-playing" data-metrics-action="click #nowplaying"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"#nowplaying","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/1002643619\/now-playing"}' >
+        #NowPlaying
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' >
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' >
+        Music Features
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' >
+        Live Sessions
+    </a>
+</li></ul>
+
+                </li>
+                <li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+                    <div class="menu__item-inner">
+                        <a href="/podcasts-and-shows/" data-metrics-action="click podcasts & shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts & shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}'>Podcasts &amp; Shows</a>
+                        <button class="menu__toggle-submenu" data-metrics-action="toggle podcasts &amp; shows drawer" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle podcasts &amp; shows drawer","clickType":"global navigation"}'>Expand/collapse submenu for Podcasts &amp; Shows</button>
+                    </div>
+
+                    <div class="submenu submenu--shows-podcasts">
+                        <span class="submenu__category submenu__category--daily">Daily</span>
+                        <ul class="submenu__list submenu__list--daily">
+                            <li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+                                <a href="/programs/morning-edition/" data-metrics-action="click morning edition" data-metrics-ga4='{"action":"global_navigation_click","clickName":"morning edition","clickType":"global navigation","clickUrl":"/programs/morning-edition/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg" loading="lazy" alt="" />
+                                    Morning Edition
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--saturday hidden" >
+                                <a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition saturday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-saturday/"}'>
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Saturday
+                                </a>
+                            </li>
+                            <li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+                                <a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition sunday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-sunday/"}'>
+                                    <img src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png" loading="lazy" alt="" />
+                                    Weekend Edition Sunday
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/all-things-considered/" data-metrics-action="click all things considered" data-metrics-ga4='{"action":"global_navigation_click","clickName":"all things considered","clickType":"global navigation","clickUrl":"/programs/all-things-considered/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/all-things-considered.png" loading="lazy" alt="" />
+                                    All Things Considered
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/programs/fresh-air/" data-metrics-action="click fresh air" data-metrics-ga4='{"action":"global_navigation_click","clickName":"fresh air","clickType":"global navigation","clickUrl":"/programs/fresh-air/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/fresh-air.png" loading="lazy" alt="" />
+                                    Fresh Air
+                                </a>
+                            </li>
+                            <li class="submenu__item">
+                                <a href="/podcasts/510318/up-first/" data-metrics-action="click up first" data-metrics-ga4='{"action":"global_navigation_click","clickName":"up first","clickType":"global navigation","clickUrl":"/podcasts/510318/up-first/"}'>
+                                    <img src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2" loading="lazy" alt="" />
+                                    Up First
+                                </a>
+                            </li>
+                        </ul>
+                        <span class="submenu__category submenu__category--featured">Featured</span>
+
+                        <ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510311/embedded" data-metrics-action="click embedded"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"embedded","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510311\/embedded"}' >
+        <img src="https://media.npr.org/assets/img/2023/01/24/embedded-tile-whitelies_sq-4a138ffc2afa3f28d6e9ae0a0210c5984351d7da-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2023/01/24/embedded-tile-whitelies_sq-4a138ffc2afa3f28d6e9ae0a0210c5984351d7da-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Embedded
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510289/planet-money" data-metrics-action="click planet money"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"planet money","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510289\/planet-money"}' >
+        <img src="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-964c68fcadc536cc93e3d66947982f58efece5f9-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-964c68fcadc536cc93e3d66947982f58efece5f9-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Planet Money
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510338/all-guides" data-metrics-action="click life kit"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"life kit","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510338\/all-guides"}' >
+        <img src="https://media.npr.org/assets/img/2022/09/23/life-kit_tile_npr-network-01_sq-200388bae100cab944ffa3655e7f3119e026d305-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2022/09/23/life-kit_tile_npr-network-01_sq-200388bae100cab944ffa3655e7f3119e026d305-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        Life Kit
+    </a>
+</li><li class="submenu__item">
+    <a href="https://www.npr.org/podcasts/510364/daily-books" data-metrics-action="click npr's book of the day"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"npr&#39;s book of the day","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510364\/daily-books"}' >
+        <img src="https://media.npr.org/assets/img/2022/09/22/book-of-the-day_tile_npr-network-01_sq-624a7585e5bbea1a1294f5da2f5a96927829ad1c-s100-c100.jpg" data-original="https://media.npr.org/assets/img/2022/09/22/book-of-the-day_tile_npr-network-01_sq-624a7585e5bbea1a1294f5da2f5a96927829ad1c-s100.jpg"   class=" lazy" alt="" loading="lazy" />
+        NPR's Book of the Day
+    </a>
+</li></ul>
+
+                        <ul class="submenu__list submenu__list--directories">
+                            <li class="submenu__item"><a href="/podcasts-and-shows/" data-metrics-action="click podcasts & shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts & shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}'>More Podcasts &amp; Shows</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="menu__item menu__item--search">
+                    <div class="menu__item-inner">
+                        <a href="/search/" id="navigation_dropdown-search" data-metrics-action="click search" data-metrics-ga4='{"action":"global_navigation_click","clickName":"search","clickType":"global navigation","clickUrl":"/search/"}'>Search</a>
+                    </div>
+                </li>
+                <li id="user-account-dropdown-mount-two" class="menu__item menu__item--account"></li>
+                <li class="menu__item menu__item--shop">
+                    <div class="menu__item-inner">
+                        <a href="https://shopnpr.org" data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}'>NPR Shop</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--music" data-metrics-all data-metrics-category="music ecosystem navigation" data-metrics-category-ga4="recirculation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--music">
+                <li class="menu__item menu__item--music-home">
+                    <a href="/music/" data-metrics-action="click npr music logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr music logo","clickType":"global navigation","clickUrl":"/music/"}'>
+                        <img src="https://media.npr.org/chrome_svg/music-logo-dark.svg" class="music-logo" alt="NPR Music" />
+                        <img src="https://media.npr.org/chrome_svg/music-logo-light.svg" class="music-logo-alt" alt="NPR Music" />
+                    </a>
+                </li>
+
+                <li class="menu__item">
+    <a href="https://www.npr.org/series/tiny-desk-concerts/" data-metrics-action="click tiny desk"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' >
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/1002643619/now-playing" data-metrics-action="click #nowplaying"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"#nowplaying","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/1002643619\/now-playing"}' >
+        #NowPlaying
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/allsongs/" data-metrics-action="click all songs considered"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' >
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/sections/music-features" data-metrics-action="click music features"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' >
+        Music Features
+    </a>
+</li><li class="menu__item">
+    <a href="https://www.npr.org/series/770565791/npr-music-live-sessions" data-metrics-action="click live sessions"  data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' >
+        Live Sessions
+    </a>
+</li>
+            </ul>
+        </div>
+    </section>
+    <section class="menu menu--about" data-metrics-all data-metrics-category="about ecosystem navigation" data-metrics-category-ga4="recirculation">
+        <div class="menu__list-wrap">
+            <ul class="menu__list menu__list--ecosystem menu__list--about">
+                <li class="menu__item menu__item--about-home"><a href="/about/" data-metrics-action="click about npr" data-metrics-ga4='{"action":"global_navigation_click","clickName":"about npr","clickType":"about ecosystem navigation","clickUrl":"/about/"}'>About NPR</a></li>
+                <li class="menu__item menu__item--about-diversity"><a href="/diversity/" data-metrics-action="click diversity" data-metrics-ga4='{"action":"global_navigation_click","clickName":"diversity","clickType":"about ecosystem navigation","clickUrl":"/diversity/"}'>Diversity</a></li>
+                <li class="menu__item menu__item--about-organization"><a href="/organization/" data-metrics-action="click organization" data-metrics-ga4='{"action":"global_navigation_click","clickName":"organization","clickType":"about ecosystem navigation","clickUrl":"/organization/"}'>Organization</a></li>
+                <li class="menu__item menu__item--about-support"><a href="/support/" data-metrics-action="click support" data-metrics-ga4='{"action":"global_navigation_click","clickName":"support","clickType":"about ecosystem navigation","clickUrl":"/support/"}'>Support</a></li>
+                <li class="menu__item menu__item--about-careers"><a href="/careers/" data-metrics-action="click careers" data-metrics-ga4='{"action":"global_navigation_click","clickName":"careers","clickType":"about ecosystem navigation","clickUrl":"/careers/"}'>Careers</a></li>
+                <li class="menu__item menu__item--about-connect"><a href="/connect/" data-metrics-action="click connect" data-metrics-ga4='{"action":"global_navigation_click","clickName":"connect","clickType":"about ecosystem navigation","clickUrl":"/connect/"}'>Connect</a></li>
+                <li class="menu__item menu__item--about-press"><a href="/press/" data-metrics-action="click press" data-metrics-ga4='{"action":"global_navigation_click","clickName":"press","clickType":"about ecosystem navigation","clickUrl":"/press/"}'>Press</a></li>
+                <li class="menu__item menu__item--about-ethics"><a href="/ethics/" data-metrics-action="click ethics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"ethics","clickType":"about ecosystem navigation","clickUrl":"/ethics/"}'>Ethics</a></li>
+            </ul>
+        </div>
+    </section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+      <b data-is-speakable>Trends to watch as Russia-Ukraine war heads into second year</b>   <b data-is-speakable>Russia's military has performed poorly, and Ukraine has defied expectations. But will these trends hold? Experts look at how the war could take a different path in its second year.</b>
+</div>
+<div id="wrapper">
+      <header class="contentheader contentheader--one" data-metrics='{"category":"Ukraine invasion \u2014 explained"}' ><div class="branding branding--seamus">
+      <a href="https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained" data-metrics='{"action":"click branding"}' ><picture><source srcset="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s=100&c=85&f=webp" class="branding__image-promo" type="image/webp" data-template="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s={width}&c={quality}&f={format}" data-format="webp" /><source srcset="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s=100&c=85&f=jpeg" class="branding__image-promo" type="image/jpeg" data-template="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" /><img src="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s=100&c=85&f=jpeg" class="branding__image-promo" alt="" data-template="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" /></picture><div class="branding__inner">
+      <b class='branding__lead-in branding__lead-in--series'>Special Series</b>   <h2 class="branding__title">Ukraine invasion — explained</h2>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--SEAMUS" -->
+<div class="subnav-tools-wrap">
+      <div id="subNavigation" class="agglocation linkLocation" role="navigation" aria-label="sub-navigation">
+            <div id="res1082832086" class="bucketwrap listtext">
+                  <div class="bucket">
+                        <p>The roots of Russia's invasion of Ukraine go back decades and run deep. The current conflict is more than one country taking over another; it is — in the words of one U.S. official — a shift in "the world order."<br /><br />Here are some helpful resources to make sense of it all.</p>
+         </div>
+         
+<!-- END CLASS="BUCKET" -->
+      </div>
+      
+<!-- END ID="RES1082832086" CLASS="BUCKETWRAP LISTTEXT" -->
+   </div>
+</div>
+</header>   <section id="main-section"><article class="story"><a id="mainContent"></a><div class="storytitle">
+      <h1>The key trends to watch in the Russia-Ukraine war</h1>
+   <input type="hidden" id="title1159274649" value="The key trends to watch in the Russia-Ukraine war" />
+   <input type="hidden" id="shortTitle1159274649" value="The key trends to watch in the Russia-Ukraine war" />
+   <input type="hidden" id="modelFullUrl1159274649" value="https://www.npr.org/2023/02/25/1159274649/key-trends-russia-ukraine-war-second-year" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+      <div class="share-tools share-tools--primary" aria-label="Share tools">
+            <ul>
+                  <li class="share-tools__service share-tools__service--facebook"><button class="fbStory1159274649" data-share-facebook='{"storyId": 1159274649 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+         <li class="share-tools__service share-tools__service--twitter"><button class="story1159274649" data-share-twitter='{"storyId": 1159274649 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"twitter"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+         <li class="share-tools__service share-tools__service--flipboard"><button class="story1159274649" data-share-flipboard='{"storyId": 1159274649 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+         <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='1159274649'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' ><b class="share-tools__service-name">Email</b></button></li>
+      </ul>
+   </div>
+   
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+
+<!-- END CLASS="STORY-TOOLS" -->
+<div id="story-meta" class="story-meta has-byline">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2023-02-25T07:52:05-05:00">
+            <span class="date">February 25, 2023</span><span class="time">7:52 AM ET</span>
+    </time>
+</div>      <div class="program-block">
+                  Heard on          <a href="https://www.npr.org/programs/weekend-edition-saturday/2023/02/25/1159528572/weekend-edition-saturday-for-february-25-2023">Weekend Edition Saturday</a>
+      </div>
+      
+<!-- END CLASS="PROGRAM-BLOCK" -->
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div id="storybyline" class="storybyline-wrap linkLocation">
+                  <div class="bucketwrap byline">
+                        <div class="byline-container--block">
+                              <div class="byline byline--block byline--has-link" aria-label="Byline">
+    <div class="byline__photo">
+      <a href="https://www.npr.org/people/348766539/greg-myre" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+        <picture><source srcset="https://media.npr.org/assets/img/2016/04/06/greg-myre_sq-876e4a19bb596295155dcd119720ccde2d602869-s100-c85.webp" class="img" type="image/webp"  data-format="webp" /><source srcset="https://media.npr.org/assets/img/2016/04/06/greg-myre_sq-876e4a19bb596295155dcd119720ccde2d602869-s100-c85.jpg" class="img" type="image/jpeg"  data-format="jpg" /><img src="https://media.npr.org/assets/img/2016/04/06/greg-myre_sq-876e4a19bb596295155dcd119720ccde2d602869-s100-c85.jpg" class="img" alt="Greg Myre - 2016 - square"  data-format="jpg" /></picture>
+      </a>
+    </div>
+
+  <p class="byline__name byline__name--block">
+    <a href="https://www.npr.org/people/348766539/greg-myre" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+      Greg Myre
+    </a>
+  </p>
+
+    <a class="byline__social-handle byline__social-handle--1" href="https://www.facebook.com/gregmyre2"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Facebook
+    </a>
+    <a class="byline__social-handle byline__social-handle--5" href="https://www.twitter.com/gregmyre1"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Twitter
+    </a>
+</div>
+            </div>
+         </div>
+         
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+      </div>
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div id="primaryaudio" class="storylocation linkLocation">
+      <article id="res1159528705" class="bucketwrap resaudio primaryaudio" aria-label="audio-module"><div class="audio-module">
+      <h4 class="audio-module-title">The key trends to watch in the Russia-Ukraine war</h4>
+   <div class="audio-module-controls-wrap" data-audio='{"uid":"1159274649:1159528705","available":true,"duration":284,"title":"The key trends to watch in the Russia-Ukraine war","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/wesat\/2023\/02\/20230225_wesat_the_key_trends_to_watch_in_the_russia-ukraine_war.mp3?orgId=1&topicId=1124&aggIds=1082539802&d=284&p=7&story=1159274649&dl=1&sc=siteplayer&size=4555800","storyUrl":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year","slug":"Europe","program":"Weekend Edition Saturday","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other","skipSponsorship":false,"hasAdsWizz":false}' data-audio-metrics='[]'>
+        <div class="audio-module-controls">
+            <a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2023/02/20230225_wesat_the_key_trends_to_watch_in_the_russia-ukraine_war.mp3?orgId=1&amp;topicId=1124&amp;aggIds=1082539802&amp;d=284&amp;p=7&amp;story=1159274649&amp;dl=1&amp;sc=siteplayer&amp;size=4555800&amp;dl=1&amp;aw_0_1st.playerid=siteplayer">
+                <b class="audio-module-listen-inner">
+                    <b class="audio-module-listen-icon icn-play"></b>
+                    <b class="audio-module-listen-text">
+                        <b class="audio-module-cta">
+                            
+                            Listen
+                        </b>
+                        <b class="audio-module-listen-duration">
+                            <span>&middot; </span>
+                            <span>4:44</span>
+                        </b>
+                    </b>
+                </b>
+            </a>
+
+                <time class="audio-module-duration" datetime="P4M,44S">
+                  <span class="audio-module-duration__initial-value">4:44</span>
+                </time>
+        </div>
+
+
+</div>
+
+   
+    <div class="audio-module-tools">
+        <button class="audio-module-tools-toggle"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;open more options&quot;,&quot;label&quot;:null,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_open_more_options&quot;,&quot;storyId&quot;:&quot;1159274649&quot;,&quot;mediaId&quot;:&quot;1159528705&quot;,&quot;title&quot;:&quot;The key trends to watch in the Russia-Ukraine war&quot;,&quot;type&quot;:&quot;ondemand&quot;}' >
+            <b class="icn-toggle"></b>
+            <b class="label">Toggle more options</b>
+        </button>
+        <ul class="audio-module-more-tools">
+                <li class="audio-tool audio-tool-download"><a href="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2023/02/20230225_wesat_the_key_trends_to_watch_in_the_russia-ukraine_war.mp3?orgId=1&amp;topicId=1124&amp;aggIds=1082539802&amp;d=284&amp;p=7&amp;story=1159274649&amp;dl=1&amp;sc=siteplayer&amp;size=4555800&amp;dl=1&amp;aw_0_1st.playerid=siteplayer"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;download audio&quot;,&quot;label&quot;:&quot;1159274649&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_download&quot;,&quot;storyId&quot;:&quot;1159274649&quot;,&quot;mediaId&quot;:&quot;1159528705&quot;,&quot;title&quot;:&quot;The key trends to watch in the Russia-Ukraine war&quot;,&quot;type&quot;:&quot;ondemand&quot;}' ><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+                </li>
+
+                <li class="audio-tool audio-tool-embed" >
+                    <button data-embed-url="https://www.npr.org/player/embed/1159274649/1159528705"  data-metrics='{&quot;category&quot;:&quot;audio actions&quot;,&quot;action&quot;:&quot;embed audio&quot;,&quot;label&quot;:&quot;1159274649&quot;,&quot;noninteraction&quot;:true}'   data-metrics-ga4='{&quot;category&quot;:&quot;audio&quot;,&quot;action&quot;:&quot;audio_embed&quot;,&quot;storyId&quot;:&quot;1159274649&quot;,&quot;mediaId&quot;:&quot;1159528705&quot;,&quot;title&quot;:&quot;The key trends to watch in the Russia-Ukraine war&quot;,&quot;type&quot;:&quot;ondemand&quot;}' ><b class="button-inner"><b class="icn-embed"></b><b
+                            class="audio-tool-label">Embed</b></b></button>
+
+                    <div class="audio-embed-overlay">
+                        <button class="btn-close"></button>
+                        <label class="embed-label">
+                            <b class="audio-embed-overlay__icon"></b>
+                            <b class="label">Embed</b>
+                            <input class="embed-url embed-url-no-touch" readonly
+                                   value="<iframe src=&quot;https://www.npr.org/player/embed/1159274649/1159528705&quot; width=&quot;100%&quot; height=&quot;290&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; title=&quot;NPR embedded audio player&quot;></iframe>">
+                        </label>
+
+                        <b class="embed-url embed-url-touch">
+                            <code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/1159274649/1159528705" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+                        </b>
+
+                    </div>
+                </li>
+
+        </ul>
+    </div>
+</div>
+</article>
+</div>
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res1159373958" class="bucketwrap image large">
+            <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 7811;
+        --source-height: 4591;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s400-c85.webp 400w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s600-c85.webp 600w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s800-c85.webp 800w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s900-c85.webp 900w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1200-c85.webp 1200w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1600-c85.webp 1600w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1800-c85.webp 1800w"  sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/webp" />
+            <source srcset="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s400-c85.jpg 400w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s600-c85.jpg 600w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s800-c85.jpg 800w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s900-c85.jpg 900w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1200-c85.jpg 1200w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1600-c85.jpg 1600w,
+https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1800-c85.jpg 1800w"  sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/jpeg" />
+            <img src="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1100-c50.jpg"  class="img" alt="" loading="lazy" />
+        </picture>
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Pedestrians walk past a large mural of Russian President Vladimir Putin on a residential building in Kashira, a town south of Moscow, on Thursday.
+                <b class="credit" aria-label="Image credit">
+                    
+                    Natalia Kolesnikova/AFP via Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Natalia Kolesnikova/AFP via Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <picture>
+            <source data-original="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1200.webp" type="image/webp">
+            <source data-original="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1200.jpg" type="image/jpeg">
+            <img data-original="https://media.npr.org/assets/img/2023/02/24/putin-2-24-23_custom-cc4b7d7e6e179e427a70b20cf1cd13da25595f98-s1200.jpg" alt="" />
+        </picture>
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">Pedestrians walk past a large mural of Russian President Vladimir Putin on a residential building in Kashira, a town south of Moscow, on Thursday.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Natalia Kolesnikova/AFP via Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>The war in Ukraine has been defined by several key trends this past year: Russia has underachieved. Ukraine has overachieved. Western support for Ukraine has remained surprisingly strong.</p>   <p>But there's no guarantee the conflict will remain on the same trajectory as we enter the second year of Russia's full-scale invasion.</p>   <p>Military analyst <a href="https://www.cna.org/experts/Kofman_M">Michael Kofman</a> says the Russian and Ukrainian militaries have both changed markedly after a year of heavy fighting.</p>   <div id="res1159352255" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage1158166110" href="https://www.npr.org/sections/pictureshow/2023/02/24/1158166110/photographing-a-year-of-war-and-resilience-in-ukraine"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/pictureshow\/2023\/02\/24\/1158166110\/photographing-a-year-of-war-and-resilience-in-ukraine"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/sections\/pictureshow\/2023\/02\/24\/1158166110\/photographing-a-year-of-war-and-resilience-in-ukraine"}' ><picture><source srcset="https://media.npr.org/assets/img/2023/02/18/2022-03-06-ukraine-charbage-343_sq-c5212514d3179df7e698dc51e39413835df26c19-s100-c15.webp" data-original="https://media.npr.org/assets/img/2023/02/18/2022-03-06-ukraine-charbage-343_sq-c5212514d3179df7e698dc51e39413835df26c19-s100.webp"  data-format="webp" class="img lazyOnLoad" type="image/webp" /><source srcset="https://media.npr.org/assets/img/2023/02/18/2022-03-06-ukraine-charbage-343_sq-c5212514d3179df7e698dc51e39413835df26c19-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2023/02/18/2022-03-06-ukraine-charbage-343_sq-c5212514d3179df7e698dc51e39413835df26c19-s100.jpg"  data-format="jpg" class="img lazyOnLoad" type="image/jpeg" /><img src="https://media.npr.org/assets/img/2023/02/18/2022-03-06-ukraine-charbage-343_sq-c5212514d3179df7e698dc51e39413835df26c19-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2023/02/18/2022-03-06-ukraine-charbage-343_sq-c5212514d3179df7e698dc51e39413835df26c19-s100.jpg"  data-format="jpg" class="img lazyOnLoad" alt="Photographing a year of war and resilience in Ukraine" loading="lazy" /></picture></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/pictureshow/">The Picture Show </a></h3>
+            <h3><a href="https://www.npr.org/sections/pictureshow/2023/02/24/1158166110/photographing-a-year-of-war-and-resilience-in-ukraine"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/pictureshow\/2023\/02\/24\/1158166110\/photographing-a-year-of-war-and-resilience-in-ukraine"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/sections\/pictureshow\/2023\/02\/24\/1158166110\/photographing-a-year-of-war-and-resilience-in-ukraine"}' >Photographing a year of war and resilience in Ukraine</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES1159352255" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>"Neither of these armies look today the way they did at the beginning of the war. Both have taken heavy losses. Both have lost a lot of their best people and best equipment," said Kofman, an expert on the Russian military at the <a href="https://www.cna.org/about-us/what-is-cna">Center for Naval Analyses</a>.</p>   <div id="res1159353319" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage1158150926" href="https://www.npr.org/2023/02/20/1158150926/volodymyr-zelenskyy-president-ukraine-russia-war"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2023\/02\/20\/1158150926\/volodymyr-zelenskyy-president-ukraine-russia-war"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/02\/20\/1158150926\/volodymyr-zelenskyy-president-ukraine-russia-war"}' ><picture><source srcset="https://media.npr.org/assets/img/2023/02/20/gettyimages-1385712466_sq-d16b034b8a07252ac709b1963ab343752f4d62b0-s100-c15.webp" data-original="https://media.npr.org/assets/img/2023/02/20/gettyimages-1385712466_sq-d16b034b8a07252ac709b1963ab343752f4d62b0-s100.webp"  data-format="webp" class="img lazyOnLoad" type="image/webp" /><source srcset="https://media.npr.org/assets/img/2023/02/20/gettyimages-1385712466_sq-d16b034b8a07252ac709b1963ab343752f4d62b0-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2023/02/20/gettyimages-1385712466_sq-d16b034b8a07252ac709b1963ab343752f4d62b0-s100.jpg"  data-format="jpg" class="img lazyOnLoad" type="image/jpeg" /><img src="https://media.npr.org/assets/img/2023/02/20/gettyimages-1385712466_sq-d16b034b8a07252ac709b1963ab343752f4d62b0-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2023/02/20/gettyimages-1385712466_sq-d16b034b8a07252ac709b1963ab343752f4d62b0-s100.jpg"  data-format="jpg" class="img lazyOnLoad" alt="Volodymyr Zelenskyy went from comedian to icon of democracy. This is how he did it" loading="lazy" /></picture></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained">Ukraine invasion — explained </a></h3>
+            <h3><a href="https://www.npr.org/2023/02/20/1158150926/volodymyr-zelenskyy-president-ukraine-russia-war"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2023\/02\/20\/1158150926\/volodymyr-zelenskyy-president-ukraine-russia-war"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/02\/20\/1158150926\/volodymyr-zelenskyy-president-ukraine-russia-war"}' >Volodymyr Zelenskyy went from comedian to icon of democracy. This is how he did it</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES1159353319" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>When Russia attempted a rapid takeover a year ago, its military rumbled into Ukraine with huge stockpiles of hardware.</p>   <p>But analyst <a href="https://twitter.com/dalperovitch">Dmitri Alperovitch</a> says a key reason the Russians failed is that they didn't send enough troops to capture and hold large parts of Ukraine.</p>   <p>"So if at the beginning, they didn't have enough troops, but they had plenty of equipment, now it's sort of the reverse, where they're flowing more troops in, but they may no longer have enough equipment to actually execute a successful campaign," said Alperovitch, who heads a think tank, the <a href="https://silverado.org/news/report-russia-shifting-import-sources-amid-u-s-and-allied-export-restrictions">Silverado Policy Accelerator</a>.</p>   <aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-News_World_Europe" class="ad-backstage ad-config" data-ad-config='{"network":"\/6735\/","site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_World_Europe","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1159274649","program":"Weekend_Edition_Saturday","agg":["1082539802","191676894","1088064796","434975886"]},"location":"backstage","deferred":false,"isBetweenContent":true,"borderClass":"","overflowCount":null}'></div>
+
+</aside>
+   <p>Russia faces military equipment shortages for a couple of reasons.</p>   <p>First, it burned through massive amounts of ammunition at an unsustainable rate, according to many analysts. Second, <a href="https://www.yahoo.com/now/pentagon-russia-likely-lost-half-132735925.html">Russia lost half its tanks</a> in the past year, according to a recent U.S. Defense Department estimate.</p>   <p>Kofman doesn't think the Russian military has gotten better over the past year, and he doesn't expect the Russians to make any major advances.</p>   <p>However, because Russia retreated from a good deal of Ukrainian territory last fall, "the Russian military substantially reduced the amount of territory they have to defend," he said. "That means that as a military, they have far more force density. They have echelon lines. They have reserves."</p>   <p>So Russia may be relatively well positioned to defend its current strongholds in the eastern region of the Donbas and the southern peninsula of Crimea.</p>   <div id="res1159375330" class="bucketwrap image large">
+            <div
+    class="imagewrap has-source-dimensions"
+    data-crop-type=""
+    style="
+        --source-width: 8192;
+        --source-height: 5014;
+    "
+>
+        <picture>
+            <source srcset="https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s400-c85.webp 400w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s600-c85.webp 600w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s800-c85.webp 800w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s900-c85.webp 900w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1200-c85.webp 1200w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1600-c85.webp 1600w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1800-c85.webp 1800w"  sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/webp" />
+            <source srcset="https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s400-c85.jpg 400w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s600-c85.jpg 600w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s800-c85.jpg 800w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s900-c85.jpg 900w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1200-c85.jpg 1200w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1600-c85.jpg 1600w,
+https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1800-c85.jpg 1800w"  sizes="(min-width: 1300px) 763px, (min-width: 1025px) calc(100vw - 496px), (min-width: 768px) calc(100vw - 171px), calc(100vw - 30px)" class="img" type="image/jpeg" />
+            <img src="https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1100-c50.jpg"  class="img" alt="" loading="lazy" />
+        </picture>
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                Ukrainian soldiers carry the coffins of two fellow soldiers at their funeral Friday at the Church of the Most Holy Apostles Peter and Paul in the western Ukrainian city of Lviv.
+                <b class="credit" aria-label="Image credit">
+                    
+                    Sean Gallup/Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Sean Gallup/Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <picture>
+            <source data-original="https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1200.webp" type="image/webp">
+            <source data-original="https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1200.jpg" type="image/jpeg">
+            <img data-original="https://media.npr.org/assets/img/2023/02/24/ukraine---2-24-23-gettyimages-1469165953_custom-b9f59e4377578629d3e7d8e59d8f807f4b8f434f-s1200.jpg" alt="" />
+        </picture>
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">Ukrainian soldiers carry the coffins of two fellow soldiers at their funeral Friday at the Church of the Most Holy Apostles Peter and Paul in the western Ukrainian city of Lviv.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Sean Gallup/Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <h3 class="edTag">Ukraine looks to carry out a new offensive</h3>   <p>This brings us to the second key trend: Ukraine's successful offensive in the fall and whether that can be repeated in the spring.</p>   <p>In the coming months, Ukraine will likely find it harder to locate and exploit Russian vulnerabilities, according to Alperovitch.</p>   <div id="res1159353634" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage1153430731" href="https://www.npr.org/2023/02/19/1153430731/ukraine-russia-war-one-year-anniversary-how-will-it-end"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2023\/02\/19\/1153430731\/ukraine-russia-war-one-year-anniversary-how-will-it-end"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/02\/19\/1153430731\/ukraine-russia-war-one-year-anniversary-how-will-it-end"}' ><picture><source srcset="https://media.npr.org/assets/img/2023/02/14/gettyimages-1247111395_sq-7679bac8d79640df452a669e0aa2d67b16f962dd-s100-c15.webp" data-original="https://media.npr.org/assets/img/2023/02/14/gettyimages-1247111395_sq-7679bac8d79640df452a669e0aa2d67b16f962dd-s100.webp"  data-format="webp" class="img lazyOnLoad" type="image/webp" /><source srcset="https://media.npr.org/assets/img/2023/02/14/gettyimages-1247111395_sq-7679bac8d79640df452a669e0aa2d67b16f962dd-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2023/02/14/gettyimages-1247111395_sq-7679bac8d79640df452a669e0aa2d67b16f962dd-s100.jpg"  data-format="jpg" class="img lazyOnLoad" type="image/jpeg" /><img src="https://media.npr.org/assets/img/2023/02/14/gettyimages-1247111395_sq-7679bac8d79640df452a669e0aa2d67b16f962dd-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2023/02/14/gettyimages-1247111395_sq-7679bac8d79640df452a669e0aa2d67b16f962dd-s100.jpg"  data-format="jpg" class="img lazyOnLoad" alt="After a year of war in Ukraine, all signs point to more misery with no end in sight" loading="lazy" /></picture></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained">Ukraine invasion — explained </a></h3>
+            <h3><a href="https://www.npr.org/2023/02/19/1153430731/ukraine-russia-war-one-year-anniversary-how-will-it-end"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2023\/02\/19\/1153430731\/ukraine-russia-war-one-year-anniversary-how-will-it-end"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/02\/19\/1153430731\/ukraine-russia-war-one-year-anniversary-how-will-it-end"}' >After a year of war in Ukraine, all signs point to more misery with no end in sight</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES1159353634" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>"I think it's going to be very difficult for the Ukrainians to make quick progress," he said. "Unless the Russian line just collapses, I think it's going to be difficult to see the type of lightning offensives that we saw last year."</p>   <p>If both sides have trouble carrying out large-scale offensives, this means the coming year could become a grinding stalemate.</p>   <p>"Neither side, frankly, has demonstrated a great proficiency at combined arms. Neither side has air superiority, which is really important if you're going to take these fortified positions," Alperovitch said.</p>   <aside id="ad-secondary-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-secondary-News_World_Europe" class="ad-secondary ad-config" data-ad-config='{"network":"\/6735\/","site":{"desktop":"NPRSecondary","mobile":"NPRMobileSecondary"},"zone":"News_World_Europe","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1159274649","program":"Weekend_Edition_Saturday","agg":["1082539802","191676894","1088064796","434975886"]},"location":"secondary","deferred":false,"isBetweenContent":true,"borderClass":"","overflowCount":null}'></div>
+
+</aside>
+   <p>Both sides are widely expected to launch offensives. In fact, a Russian one appears to be underway in the east, and Russian forces have already suffered one resounding defeat around the town of <a href="https://www.nytimes.com/2023/02/15/world/europe/russia-military-vuhledar-ukraine.html">Vuhledar</a>.</p>   <h3 class="edTag">Western support for Ukraine has been strong — so far</h3>   <p>If neither side makes big advances, this could take us to the third key trend: the durability of Western support for Ukraine.</p>   <p>U.S. and European aid has been much stronger than many anticipated. Just last month, Western countries pledged the biggest military assistance package yet, including, for the first time, tanks.</p>   <p>But this backing may not last forever, says Russia expert <a href="https://puck.news/author/julia-ioffe/">Julia Ioffe</a>, who writes for <a href="https://puck.news/">Puck</a>.</p>   <div id="res1159352763" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage1157106172" href="https://www.npr.org/2023/02/22/1157106172/ukraine-russia-war-refugees-food-prices"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2023\/02\/22\/1157106172\/ukraine-russia-war-refugees-food-prices"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/02\/22\/1157106172\/ukraine-russia-war-refugees-food-prices"}' ><picture><source srcset="https://media.npr.org/assets/img/2023/02/15/promo-static_sq-94e35618f74c27874b44561528adbf6a17d6a72f-s100-c15.webp" data-original="https://media.npr.org/assets/img/2023/02/15/promo-static_sq-94e35618f74c27874b44561528adbf6a17d6a72f-s100.webp"  data-format="webp" class="img lazyOnLoad" type="image/webp" /><source srcset="https://media.npr.org/assets/img/2023/02/15/promo-static_sq-94e35618f74c27874b44561528adbf6a17d6a72f-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2023/02/15/promo-static_sq-94e35618f74c27874b44561528adbf6a17d6a72f-s100.jpg"  data-format="jpg" class="img lazyOnLoad" type="image/jpeg" /><img src="https://media.npr.org/assets/img/2023/02/15/promo-static_sq-94e35618f74c27874b44561528adbf6a17d6a72f-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2023/02/15/promo-static_sq-94e35618f74c27874b44561528adbf6a17d6a72f-s100.jpg"  data-format="jpg" class="img lazyOnLoad" alt="The ripple effects of Russia&#039;s war in Ukraine continue to change the world" loading="lazy" /></picture></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained">Ukraine invasion — explained </a></h3>
+            <h3><a href="https://www.npr.org/2023/02/22/1157106172/ukraine-russia-war-refugees-food-prices"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/2023\/02\/22\/1157106172\/ukraine-russia-war-refugees-food-prices"}'   data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/02\/22\/1157106172\/ukraine-russia-war-refugees-food-prices"}' >The ripple effects of Russia's war in Ukraine continue to change the world</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES1159352763" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>"I do think at some point, Western support will start fraying, especially as the political winds change in the U.S.," Ioffe said, pointing to a group of Republicans in the U.S. House who are questioning U.S. aid.</p>   <p>"You are seeing these reassertions of an isolationist kind of 'America First' sentiment of, 'Why are we in this fight? Why are we sending a blank check to Ukraine? We shouldn't be doing this,'" she added.</p>   <p>Alperovitch noted that stockpiles of Western weapons are not infinite.</p>   <p>"The main issue is not actually the will to support the Ukrainians on the Western side. It's the capacity to do so," he said. "The rate at which the Ukrainians are expending munitions exceeds the production capacity of even the collective West."</p>   <p>Heading into the next year of the war, Kofman urges everyone to show a little humility. </p>   <p>"You have to be humble, specifically in the area of predictions, because experts actually are usually bad at predictions," he said.</p>   <p>In an unpredictable war, he said, expect the unexpected.</p>   <p><em>Greg Myre (</em><a href="https://twitter.com/gregmyre1"><em>@gregmyre1</em></a><em>) is an NPR national security correspondent who has reported from Ukraine during the past year of the war. </em></p>
+</div>
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory1159274649" data-share-facebook='{"storyId": 1159274649 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story1159274649" data-share-twitter='{"storyId": 1159274649 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"twitter"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story1159274649" data-share-flipboard='{"storyId": 1159274649 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='1159274649'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/2023\/02\/25\/1159274649\/key-trends-russia-ukraine-war-second-year"}'   data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;news&quot;,&quot;title&quot;:&quot;Daily News&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For the NPR Daily Newsletter&quot;,&quot;frequency&quot;:&quot;every day&quot;,&quot;shortDescription&quot;:&quot;Catch up on the latest headlines and unique NPR stories, delivered daily.&quot;,&quot;stickyDescription&quot;:&quot;Sign up for the NPR Daily newsletter for the latest headlines and unique NPR stories.&quot;,&quot;contentImage&quot;:&quot;https:\/\/media.npr.org\/assets\/img\/2021\/02\/09\/npr-daily.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/topics\/header1001.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/news\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/news\/&quot;,&quot;organizationId&quot;:1,&quot;recaptchaSiteKey&quot;:&quot;6LfD6CYUAAAAAIBeUekwZ9KCjF4UyLFtu7NWNaEK&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;NEWS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;DAILY NEWS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR DAILY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY DAY&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;CATCH UP ON THE LATEST HEADLINES AND UNIQUE NPR STORIES, DELIVERED DAILY.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE NPR DAILY NEWSLETTER FOR THE LATEST HEADLINES AND UNIQUE NPR STORIES.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2021\/02\/09\/NPR-DAILY.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/TOPICS\/HEADER1001.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/NEWS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/NEWS\/&QUOT;,&QUOT;ORGANIZATIONID&QUOT;:1,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LFD6CYUAAAAAIBEUEKWZ9KCJF4UYLFTU7NWNAEK&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"Ukraine invasion \u2014 explained"}' ><div class="branding branding--seamus">
+      <a href="https://www.npr.org/series/1082539802/russia-ukraine-invasion-explained" data-metrics='{"action":"click branding"}' ><picture><source srcset="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s=100&c=85&f=webp" class="branding__image-promo" type="image/webp" data-template="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s={width}&c={quality}&f={format}" data-format="webp" /><source srcset="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s=100&c=85&f=jpeg" class="branding__image-promo" type="image/jpeg" data-template="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" /><img src="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s=100&c=85&f=jpeg" class="branding__image-promo" alt="" data-template="https://media.npr.org/assets/img/2022/03/04/2022-03-01t175456z_190705021_rc2rts9rml0z_rtrmadp_3_ukraine-crisis_sq-e4e6322908731572c4041e607bb879c7ca382ba1.jpg?s={width}&c={quality}&f={format}" data-format="jpeg" /></picture><div class="branding__inner">
+      <b class='branding__lead-in branding__lead-in--series'>Special Series</b>   <h2 class="branding__title">Ukraine invasion — explained</h2>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--SEAMUS" -->
+</header><footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/culture/" data-metrics-action="Click Culture">Culture</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts-and-shows" data-metrics-action="click podcasts & shows">Podcasts &amp; Shows</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/newsletters/" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="/press/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org/contact/s/" data-metrics-action="Click Contact & Help">Contact & Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/diversity/" data-metrics-action="Click Diversity">Diversity</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/1136563345/accessibility" data-metrics-action="Click Accessibility">Accessibility</a></li>
+                <li class="npr-footer__item"><a href="/ethics/" data-metrics-action="Click Ethics">Ethics</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/sections/publiceditor/" data-metrics-action="Click Public Editor">Public Editor</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/support/" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shopnpr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/sections/npr-extra/" data-metrics-action="Click NPR Extra">NPR Extra</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices" data-metrics-action="Click Your Privacy Choices">Your Privacy Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div>
+</footer><div id="global-stickybar-mount" class="global-stickybar-mount">
+   </div>
+</section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_World_Europe" class="ad-standard ad-config" data-ad-config='{"network":"\/6735\/","site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"zone":"News_World_Europe","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1159274649","program":"Weekend_Edition_Saturday","agg":["1082539802","191676894","1088064796","434975886"]},"location":"standard","deferred":false,"isBetweenContent":false,"borderClass":"","overflowCount":null}'></div>
+    <p class="left">Sponsor Message</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[19],{1097:function(e,n,c){e.exports=c(303)},303:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(2),c.e(3),c.e(95),c.e(73)]).then(function(e){c(3),c(1071),c(43),c(105),c(29),c(169),c(125),c(63),c(65),c(1072),c(86),c(1073),c(296),c(1074),c(77)}.bind(null,c)).catch(c.oe)}},[[1097,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html><!-- CACHED 1677516334 -->

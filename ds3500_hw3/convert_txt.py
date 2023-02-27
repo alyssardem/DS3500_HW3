@@ -45,13 +45,13 @@ uk_article2 = convert_txt(
     'textfile2_uk.txt', 'bbc2')
 
 # Convert US articles to txt
-# us_article1 = convert_txt(
-#     "https://www.nytimes.com/2023/02/24/world/europe/ukraine-russia-war-anniversary.html",
-#     'textfile1_us.txt', 'ny_times1')
+us_article1 = convert_txt(
+    "https://www.npr.org/2023/02/25/1159274649/key-trends-russia-ukraine-war-second-year",
+    'textfile1_us.txt', 'npr1')
 
-# us_article2 = convert_txt(
-#     "https://www.nytimes.com/2023/02/18/opinion/ukraine-biden.html",
-#     'textfile2_us.txt', 'ny_times2')
+us_article2 = convert_txt(
+    "https://www.npr.org/sections/pictureshow/2023/02/24/1158166110/photographing-a-year-of-war-and-resilience-in-ukraine",
+    'textfile2_us.txt', 'npr2')
 
 # Convert China articles to txt
 china_article1 = convert_txt(

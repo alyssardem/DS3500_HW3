@@ -8,6 +8,7 @@ import random as rnd
 import matplotlib.pyplot as plt
 import sankey as sk
 import pandas as pd
+import plotly.express as px
 
 
 class Build:
@@ -31,7 +32,15 @@ class Build:
         }
         file_obj.close()
         return results
+    def generate_df(self):
+        df = pd.DataFrame(columns=["articles", "words", "count"])
 
+        # iterating through article, then wordcount
+        for key, val in self.data['wordcount'].items():
+            for k, v in val.items():
+                # appending to df each wordcount and its value
+                df.loc[len(df.index)] = [key, k, v]
+        return df
     def _save_results(self, label, results):
         """ Integrate parsing results into internal state
         label: unique label for a text file that we parsed
@@ -67,13 +76,7 @@ class Build:
         """ generates a sankey diagram by turning wordcount dict into a df
         and running the df through sankey.py """
         # creating an empty DataFrame containing columns for left, right, and width
-        df = pd.DataFrame(columns=["articles", "words", "count"])
-
-        # iterating through article, then wordcount
-        for key, val in self.data['wordcount'].items():
-            for k, v in val.items():
-                # appending to df each wordcount and its value
-                df.loc[len(df.index)] = [key, k, v]
+        df = Build.generate_df(self)
         # removing any count in df that is less than 6
         df.drop(df.loc[df['count'] < 6].index, inplace=True)
         # removing any words in df with lengths less than 3
@@ -86,5 +89,7 @@ class Build:
         """ a for loop that returns a chart for every article """
 
     def group_chart(self):
+        fig = px.bar()
         """ same kind of chart as ind_chart but combines all the articles into one chart """
+
 
