@@ -41,8 +41,69 @@ class Build:
             for k, v in val.items():
                 # appending to df each wordcount and its value
                 df.loc[len(df.index)] = [key, k, v]
-
+        # for art in df['articles'].unique():
+        #     print(art)
+        #     for ind in df.index:
+        #         row = df.loc(ind)
+        #         print(row['articles'])
+        #         if row[0].to_string() == art:
+        #             if df[1].str.contains(row[1]):
+        #                 df.replace(to_replace=(df['words'].str.contains(row[1])), value=row)
+        #print(df)
         return df
+
+    def generate_df2(self, df):
+        time = ['year', 'year,', 'Monday', 'April,', 'April.', 'August,', 'February.', "February.I've", 'January',
+                'January,', 'January.', 'Feb.', 'January.This', 'March.', 'May.', 'Tuesday.A', 'Tuesday,', 'October.',
+                'September.', 'Tuesday', 'week', 'winter', 'time.', 'time', 'summer', 'spring.', 'spring', 'afternoon']
+        location = ['world.', 'Western', 'West', 'Washington', 'US', "Ukraine's", 'NATO,', 'Munich,', 'Munich', 'Hong,',
+                    'Moscow,', 'Moscow', 'Heng,', 'Global', 'Germany,', 'European', 'China', 'East', 'Chinese',
+                    'China-Russia', "China's", 'Bulgarian', 'Bilhorod-Dnistrovskyi', 'Demydiv,', 'Dnipro', 'Dnipro,',
+                    'Eastern', 'Europe', 'Izium', 'Izium.', 'Kharkiv', 'Kharkiv,', 'Kherson', 'Korenovsky',
+                    'Kuzhukhar,', 'Kyiv', 'Kyiv,', 'Kuleba', 'Li', 'Kiev', 'Kyiv.', 'Luhanska,', 'Lviv', 'Lviv,',
+                    'Mariupol', 'Moldovan,', 'Moshchun', 'Moshchun,', 'Mykolaiv', 'Poland', 'Roman', 'Russia,"',
+                    'Russia,', 'Russia', "Russia's", 'Russian', 'Russian,', 'Soviet', 'Stanytsia', 'Ukraine.Last',
+                    'U.S.', 'Ukraine,', 'Ukraine', 'Ukraine.', 'western', 'Western', 'Victoria,', 'village',
+                    'southwest', 'northernmost', 'frontlines', 'farmhouse', 'eastern', 'downtown', 'country,',
+                    'country', 'Russia-Ukraine', '"Russia', '"Ukraine', 'America,', 'Asian', 'Beijing-based']
+        person = ['himself', 'his', "Wang's", 'Wang,', 'Wang', 'Vladimir', "Putin's", 'Putin', 'Joe', 'Minister',
+                  'Dmytro', 'Blinken', 'Beliakova,', 'Anna', 'Artemchuk', 'Claire', 'Harbage', 'Ivan', 'Katerina',
+                  'Kostenko', 'Koverznev,', 'President', 'Pavlenko', 'Patrushev,', 'Maksim.', 'Mordiukova', 'Mykhailo',
+                  'Nadia', 'Nikolai', 'Pastuchenko', 'Paul', 'Pavlo', 'People', 'Peter', 'Rebenko', 'Thompson.',
+                  'Tsyhanenko,', 'he',  'Volodymyr', 'Viktor', 'Ukrainians,', 'Ukrainians', 'Ukrainian', 'Antony',
+                  'Biden', "Biden's"]
+        war = ['zone', 'peace."', 'peace', 'death', 'casualties', 'ceasefire,', 'battlefield,"', 'battlefield,',
+               'battle', 'artillery', 'ammunitions', 'ammunition,', 'allies', 'besieged', 'Howitzers.', 'Aid', 'attack',
+               'forces', 'wars', 'war.This', 'war-damaged', 'warring', 'war,', 'war', 'units', 'teams', 'team',
+               'tactics.', 'soldiers', 'soldier', 'Sandbags', 'Shelling', 'Soldiers', 'shell-shocked', 'rubble',
+               'military', 'lieutenant', 'liberation', 'liberated', 'journalist-turned-soldier', 'invasion.',
+               'invasion', 'rocket', 'resilience.In', 'resilience', 'conflict,', 'conflict', 'body', 'bodies']
+
+        df2_data = [['CH1', 0, 0, 0, 0, 0], ['CH2', 0, 0, 0, 0, 0], ['RUS1', 0, 0, 0, 0, 0], ['RUS2', 0, 0, 0, 0, 0],
+                    ['UK1', 0, 0, 0, 0, 0], ['UK2', 0, 0, 0, 0, 0], ['US1', 0, 0, 0, 0, 0], ['US2', 0, 0, 0, 0, 0]]
+        df2 = pd.DataFrame(df2_data, columns=['articles', 'time', 'location', 'person', 'war', 'misc'])
+        for ind in df.index:
+            if df['words'][ind] in time:
+                for ind2 in df2.index:
+                    if df2['articles'][ind2] == df['articles'][ind]:
+                        df2['time'][ind2] += df['count']
+            elif df['words'][ind] in location:
+                for ind2 in df2.index:
+                    if df2['articles'][ind2] == df['articles'][ind]:
+                        df2['location'][ind2] += df['count']
+            elif df['words'][ind] in person:
+                for ind2 in df2.index:
+                    if df2['articles'][ind2] == df['articles'][ind]:
+                        df2['person'][ind2] += df['count']
+            elif df['words'][ind] in war:
+                for ind2 in df2.index:
+                    if df2['articles'][ind2] == df['articles'][ind]:
+                        df2['war'][ind2] += df['count']
+            else:
+                for ind2 in df2.index:
+                    if df2['articles'][ind2] == df['articles'][ind]:
+                        df2['misc'][ind2] += df['count']
+        return df2
 
     def _save_results(self, label, results):
         """ Integrate parsing results into internal state
@@ -90,7 +151,26 @@ class Build:
 
     def ind_chart(self):
         """ a for loop that returns a chart for every article """
+        for art in range(8):
+            df = Build.generate_df(self)
+            df2 = Build.generate_df2(self, df=df)
+            df2 = df2.iloc[[art], :].copy()
+            df2 = df2.drop(['articles'], axis=1)
+            df_bar = pd.DataFrame({'Terms': df2.columns, 'count': df2.loc[0]})
+            print('df bar', df_bar)
+            fig = px.bar(df_bar, x='Terms', y='count')
+            fig.show()
+
+
 
     def group_chart(self):
-        fig = px.bar()
         """ same kind of chart as ind_chart but combines all the articles into one chart """
+
+
+        df = Build.generate_df(self)
+        df2 = Build.generate_df2(self, df=df)
+        df2 = df2.drop(['misc'], axis=1)
+
+
+        fig = px.bar(df2, x='articles', y=['time', 'location', 'person', 'war'])
+        fig.show()

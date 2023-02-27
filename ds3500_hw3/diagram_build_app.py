@@ -1,3 +1,8 @@
+"""
+importing downloaded files and running visualizations
+Melissa and Alyssa
+"""
+
 from diagram_build import Build
 import pprint as pp
 import sankey as sk
@@ -21,7 +26,9 @@ def main():
     # produce the visualizations
     pp.pprint(tt.data)
     #tt.compare_num_words()
-    tt.sankey()
+    #tt.sankey()
+    #tt.group_chart()
+    tt.ind_chart()
 
 
 if __name__ == '__main__':
