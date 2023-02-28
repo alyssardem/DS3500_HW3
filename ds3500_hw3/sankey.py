@@ -46,5 +46,5 @@ def make_sankey(df, src, targ, vals=None, **kwargs):
 
 
 def show_sankey(df, src, targ, vals=None, **kwargs):
-    fig = make_sankey(df, src, targ, vals=None, **kwargs)
+    fig = make_sankey(df, src, targ, vals, **kwargs)
     fig.show()

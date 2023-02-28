@@ -24,10 +24,8 @@ def main():
     tt.load_text('C:/Users/ardem/classes/ds3500_hw3/npr2', 'US2')
 
     # produce the visualizations
-    pp.pprint(tt.data)
-    #tt.compare_num_words()
-    #tt.sankey()
-    #tt.group_chart()
+    tt.sankey()
+    tt.group_chart()
     tt.ind_chart()
 
 

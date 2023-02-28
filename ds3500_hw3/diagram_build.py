@@ -41,18 +41,11 @@ class Build:
             for k, v in val.items():
                 # appending to df each wordcount and its value
                 df.loc[len(df.index)] = [key, k, v]
-        # for art in df['articles'].unique():
-        #     print(art)
-        #     for ind in df.index:
-        #         row = df.loc(ind)
-        #         print(row['articles'])
-        #         if row[0].to_string() == art:
-        #             if df[1].str.contains(row[1]):
-        #                 df.replace(to_replace=(df['words'].str.contains(row[1])), value=row)
-        #print(df)
+
         return df
 
     def generate_df2(self, df):
+        # lists of key terms and defining words
         time = ['year', 'year,', 'Monday', 'April,', 'April.', 'August,', 'February.', "February.I've", 'January',
                 'January,', 'January.', 'Feb.', 'January.This', 'March.', 'May.', 'Tuesday.A', 'Tuesday,', 'October.',
                 'September.', 'Tuesday', 'week', 'winter', 'time.', 'time', 'summer', 'spring.', 'spring', 'afternoon']
@@ -70,7 +63,7 @@ class Build:
                   'Dmytro', 'Blinken', 'Beliakova,', 'Anna', 'Artemchuk', 'Claire', 'Harbage', 'Ivan', 'Katerina',
                   'Kostenko', 'Koverznev,', 'President', 'Pavlenko', 'Patrushev,', 'Maksim.', 'Mordiukova', 'Mykhailo',
                   'Nadia', 'Nikolai', 'Pastuchenko', 'Paul', 'Pavlo', 'People', 'Peter', 'Rebenko', 'Thompson.',
-                  'Tsyhanenko,', 'he',  'Volodymyr', 'Viktor', 'Ukrainians,', 'Ukrainians', 'Ukrainian', 'Antony',
+                  'Tsyhanenko,', 'he', 'Volodymyr', 'Viktor', 'Ukrainians,', 'Ukrainians', 'Ukrainian', 'Antony',
                   'Biden', "Biden's"]
         war = ['zone', 'peace."', 'peace', 'death', 'casualties', 'ceasefire,', 'battlefield,"', 'battlefield,',
                'battle', 'artillery', 'ammunitions', 'ammunition,', 'allies', 'besieged', 'Howitzers.', 'Aid', 'attack',
@@ -79,30 +72,38 @@ class Build:
                'military', 'lieutenant', 'liberation', 'liberated', 'journalist-turned-soldier', 'invasion.',
                'invasion', 'rocket', 'resilience.In', 'resilience', 'conflict,', 'conflict', 'body', 'bodies']
 
+        # generating an empty DataFrame where the count for everything is set to 0
         df2_data = [['CH1', 0, 0, 0, 0, 0], ['CH2', 0, 0, 0, 0, 0], ['RUS1', 0, 0, 0, 0, 0], ['RUS2', 0, 0, 0, 0, 0],
                     ['UK1', 0, 0, 0, 0, 0], ['UK2', 0, 0, 0, 0, 0], ['US1', 0, 0, 0, 0, 0], ['US2', 0, 0, 0, 0, 0]]
         df2 = pd.DataFrame(df2_data, columns=['articles', 'time', 'location', 'person', 'war', 'misc'])
+        # indexing through the first df
         for ind in df.index:
+            # checking for instances of key term 'time'
             if df['words'][ind] in time:
                 for ind2 in df2.index:
                     if df2['articles'][ind2] == df['articles'][ind]:
                         df2['time'][ind2] += df['count']
+            # checking for instances of key term 'location'
             elif df['words'][ind] in location:
                 for ind2 in df2.index:
                     if df2['articles'][ind2] == df['articles'][ind]:
                         df2['location'][ind2] += df['count']
+            # checking for instances of key term 'person'
             elif df['words'][ind] in person:
                 for ind2 in df2.index:
                     if df2['articles'][ind2] == df['articles'][ind]:
                         df2['person'][ind2] += df['count']
+            # checking for instances of key term 'war'
             elif df['words'][ind] in war:
                 for ind2 in df2.index:
                     if df2['articles'][ind2] == df['articles'][ind]:
                         df2['war'][ind2] += df['count']
+            # all other words get filed into misc
             else:
                 for ind2 in df2.index:
                     if df2['articles'][ind2] == df['articles'][ind]:
                         df2['misc'][ind2] += df['count']
+        # return df2
         return df2
 
     def _save_results(self, label, results):
@@ -145,32 +146,43 @@ class Build:
         df.drop(df.loc[df['count'] < 6].index, inplace=True)
         # removing any words in df with lengths less than 3
         df.drop(df.loc[df['words'].str.len() < 3].index, inplace=True)
+        # filter out filler words
+        df = df[df['words'].str.contains('the|and') == False]
+        print(df)
 
         # generate sankey diagram
         sk.show_sankey(df, 'articles', 'words', 'count')
 
     def ind_chart(self):
         """ a for loop that returns a chart for every article """
+        # iterating through each article to create a graph for each one
+        df = Build.generate_df(self)
         for art in range(8):
-            df = Build.generate_df(self)
+            # generating a new df2
             df2 = Build.generate_df2(self, df=df)
+            # only saving the row that contains the needed article
             df2 = df2.iloc[[art], :].copy()
+            # generating the chart diagram before removing articles
+            title = 'Ratio of Key Terms and Unsorted Terms for ' + df2['articles'][art]
+            # dropping the articles column
             df2 = df2.drop(['articles'], axis=1)
-            df_bar = pd.DataFrame({'Terms': df2.columns, 'count': df2.loc[0]})
-            print('df bar', df_bar)
-            fig = px.bar(df_bar, x='Terms', y='count')
+            # creating a DataFrame for the bar chart that contains the keys and their counts
+            df_bar = pd.DataFrame({'Terms': df2.columns, 'count': df2.loc[art]})
+
+            # plotting the bar chart
+            fig = px.bar(df_bar, x='Terms', y='count', title=title)
             fig.show()
-
-
 
     def group_chart(self):
         """ same kind of chart as ind_chart but combines all the articles into one chart """
-
-
+        # build df and create df2 that contains each article and how many times it contains key terms
         df = Build.generate_df(self)
         df2 = Build.generate_df2(self, df=df)
+        # dropping the misc column from df2
         df2 = df2.drop(['misc'], axis=1)
 
-
-        fig = px.bar(df2, x='articles', y=['time', 'location', 'person', 'war'])
+        # plotting df2 where each bar is an article and its height is the sum of its key term count
+        fig = px.bar(df2, x='articles', y=['time', 'location', 'person', 'war'], title='Ratio of Key Terms Contained'
+                                                                                       'In Each Article About the'
+                                                                                       'Ukraine War')
         fig.show()
